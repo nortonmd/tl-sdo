@@ -1,0 +1,14 @@
+SELECT
+        Id,
+        Name,
+        ConsigneeId__c,
+        ContentsDescription__c,
+        DestinationLocation__c,
+        ExpectedArrivalDateTime__c,
+        OriginLocation__c,
+        ShipmentDateTime__c,
+        ShipmentStatus__c,
+        ShipmentType__c,
+        ShipperId__c
+FROM TMSShipment__c
+LIMIT 10
