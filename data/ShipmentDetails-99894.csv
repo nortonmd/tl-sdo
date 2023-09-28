@@ -1,0 +1,1001 @@
+ShipmentID,OriginLocation,DestinationLocation,ShipmentDateTime,ExpectedArrivalDateTime,ShipmentStatus,ShipperId,ConsigneeId,ShipmentType,ContentsDescription
+SP-6966,Atlanta WH,New Orleans WH,2023-09-28 17:00:08,2023-10-02 06:36:28,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Cloned leading edge matrix
+SP-9606,Miami WH,Miami WH,2023-09-05 13:30:49,2023-10-22 20:10:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Organic 5th generation complexity
+SP-8843,Atlanta WH,Durham WH,2023-09-28 16:23:51,2023-10-25 05:46:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Diverse leading edge synergy
+SP-1076,Miami WH,Durham WH,2023-09-01 01:47:04,2023-10-24 17:26:27,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Monitored bifurcated archive
+SP-3470,Chicago WH,New Orleans WH,2023-09-21 11:19:23,2023-10-16 13:08:00,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Automated human-resource collaboration
+SP-3360,Durham WH,Durham WH,2023-09-10 23:16:56,2023-10-21 00:38:53,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Customizable context-sensitive hub
+SP-6077,Chicago WH,Atlanta WH,2023-09-03 21:19:13,2023-10-17 04:08:44,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Quality-focused optimal solution
+SP-9703,Nashville WH,Miami WH,2023-09-25 16:57:39,2023-10-10 08:56:55,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Self-enabling foreground software
+SP-4624,Atlanta WH,Miami WH,2023-09-10 07:51:03,2023-10-08 05:07:58,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Enterprise-wide global knowledge user
+SP-3345,Durham WH,Chicago WH,2023-09-18 00:55:09,2023-10-17 02:44:24,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Mandatory incremental methodology
+SP-0882,Chicago WH,Atlanta WH,2023-09-06 23:21:29,2023-10-02 00:11:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Open-source reciprocal attitude
+SP-1385,Detroit WH,Detroit WH,2023-09-28 07:53:57,2023-10-03 10:27:59,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-layered leading edge matrix
+SP-0084,New Orleans WH,Durham WH,2023-09-15 11:00:51,2023-10-08 02:06:48,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Centralized executive artificial intelligence
+SP-1479,Atlanta WH,New Orleans WH,2023-09-14 00:39:00,2023-10-23 12:21:12,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Operative uniform structure
+SP-0430,New Orleans WH,Nashville WH,2023-09-07 16:31:09,2023-10-17 09:17:25,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Organic composite archive
+SP-9797,Miami WH,New Orleans WH,2023-09-05 20:13:34,2023-10-27 06:34:02,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Assimilated next generation capability
+SP-2608,Atlanta WH,Nashville WH,2023-09-05 23:54:08,2023-10-30 11:16:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Managed neutral functionalities
+SP-3069,Durham WH,Miami WH,2023-09-07 00:32:43,2023-10-16 11:43:07,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Fully-configurable attitude-oriented intranet
+SP-0736,Detroit WH,Atlanta WH,2023-09-16 09:14:08,2023-10-26 00:51:43,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Pre-emptive encompassing instruction set
+SP-7503,Chicago WH,New Orleans WH,2023-09-24 23:06:59,2023-10-20 10:32:14,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,De-engineered even-keeled help-desk
+SP-2411,Chicago WH,New Orleans WH,2023-09-15 03:17:08,2023-10-27 02:27:56,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Triple-buffered national application
+SP-3759,Detroit WH,Detroit WH,2023-09-26 21:43:10,2023-10-10 17:47:11,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Monitored eco-centric groupware
+SP-1781,Miami WH,Miami WH,2023-09-21 06:31:19,2023-10-01 01:24:09,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Total homogeneous solution
+SP-9273,Durham WH,Chicago WH,2023-09-17 20:29:17,2023-10-21 08:55:29,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Decentralized reciprocal application
+SP-1851,New Orleans WH,Atlanta WH,2023-09-24 17:36:59,2023-10-30 16:37:15,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Versatile optimizing capability
+SP-2521,Nashville WH,Durham WH,2023-09-28 00:04:08,2023-10-04 01:21:03,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Extended fresh-thinking utilisation
+SP-3770,Durham WH,Durham WH,2023-09-22 09:45:02,2023-10-25 07:54:24,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Compatible discrete utilisation
+SP-0276,Durham WH,Nashville WH,2023-09-13 17:55:31,2023-10-15 09:35:14,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Future-proofed leading edge intranet
+SP-7412,Durham WH,Atlanta WH,2023-09-24 14:33:43,2023-10-10 14:51:14,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Cross-group contextually-based encryption
+SP-5914,Durham WH,Detroit WH,2023-09-11 01:58:22,2023-10-25 08:42:16,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-lateral intangible challenge
+SP-5229,Chicago WH,Chicago WH,2023-09-11 21:37:18,2023-10-18 01:48:05,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Compatible optimal matrix
+SP-7067,Durham WH,Durham WH,2023-09-25 16:39:09,2023-10-04 06:49:38,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Focused 6th generation collaboration
+SP-4588,Nashville WH,Miami WH,2023-09-05 19:59:42,2023-10-06 04:46:53,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Visionary interactive support
+SP-0970,Atlanta WH,Detroit WH,2023-09-25 10:57:26,2023-10-19 19:46:43,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Face to face context-sensitive access
+SP-6993,Chicago WH,New Orleans WH,2023-09-22 06:39:37,2023-10-05 01:13:10,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Monitored composite standardization
+SP-5373,Atlanta WH,New Orleans WH,2023-09-06 16:43:56,2023-10-21 04:13:39,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Devolved dynamic data-warehouse
+SP-6794,New Orleans WH,Nashville WH,2023-09-13 11:13:24,2023-10-25 09:49:29,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Right-sized well-modulated interface
+SP-5265,Chicago WH,Nashville WH,2023-09-22 04:07:31,2023-10-08 15:08:18,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Extended actuating time-frame
+SP-0314,Nashville WH,Durham WH,2023-09-28 02:53:24,2023-10-13 09:33:57,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Secured upward-trending analyzer
+SP-9719,Miami WH,Miami WH,2023-09-29 04:40:25,2023-10-10 08:34:15,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Seamless interactive matrices
+SP-9520,Durham WH,Miami WH,2023-09-28 06:42:30,2023-10-04 23:44:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Profound context-sensitive matrix
+SP-2868,Atlanta WH,Chicago WH,2023-09-15 09:54:06,2023-10-26 14:56:18,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Face to face secondary core
+SP-8788,New Orleans WH,New Orleans WH,2023-09-21 11:04:27,2023-10-04 22:42:37,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Seamless disintermediate infrastructure
+SP-4662,Miami WH,Detroit WH,2023-09-17 20:11:35,2023-10-29 00:22:03,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Multi-lateral 3rd generation software
+SP-6476,Atlanta WH,Nashville WH,2023-09-06 03:05:53,2023-10-04 11:47:18,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synergized holistic knowledge base
+SP-8268,Atlanta WH,Durham WH,2023-09-29 02:38:45,2023-10-01 22:07:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Ameliorated modular paradigm
+SP-1891,Detroit WH,New Orleans WH,2023-09-25 04:43:20,2023-10-06 17:45:14,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Customer-focused bifurcated moderator
+SP-1792,Chicago WH,Detroit WH,2023-09-14 15:28:30,2023-10-26 04:21:47,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Realigned cohesive protocol
+SP-8827,Nashville WH,New Orleans WH,2023-09-24 18:42:59,2023-10-05 05:07:04,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Customizable reciprocal structure
+SP-2538,Atlanta WH,Durham WH,2023-09-05 11:06:50,2023-10-26 15:36:16,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synergized asynchronous structure
+SP-7960,Chicago WH,Chicago WH,2023-09-07 16:59:59,2023-10-30 08:30:40,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Object-based systemic knowledge user
+SP-0502,Atlanta WH,Durham WH,2023-09-27 20:36:26,2023-10-08 22:10:19,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional optimal instruction set
+SP-4897,New Orleans WH,Atlanta WH,2023-09-06 20:33:42,2023-10-09 15:18:05,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Virtual radical attitude
+SP-4925,Durham WH,New Orleans WH,2023-09-25 20:01:30,2023-10-05 04:33:43,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Re-engineered high-level infrastructure
+SP-9095,Durham WH,Durham WH,2023-09-08 07:17:51,2023-10-25 13:04:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-layered user-facing utilisation
+SP-1394,New Orleans WH,Nashville WH,2023-09-20 07:24:27,2023-10-17 02:25:11,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Automated web-enabled budgetary management
+SP-2183,Atlanta WH,New Orleans WH,2023-09-06 23:39:04,2023-10-24 17:48:24,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Profound incremental Graphic Interface
+SP-0548,Durham WH,Chicago WH,2023-09-29 01:50:10,2023-10-17 06:06:03,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Enhanced discrete access
+SP-5879,Miami WH,New Orleans WH,2023-09-20 18:29:42,2023-10-08 12:32:56,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Profound global product
+SP-1378,Miami WH,Miami WH,2023-09-11 00:07:00,2023-10-17 11:23:07,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,User-centric disintermediate flexibility
+SP-5936,Chicago WH,New Orleans WH,2023-09-17 09:03:43,2023-10-11 07:48:42,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Fully-configurable local process improvement
+SP-7012,Detroit WH,Detroit WH,2023-09-11 16:47:52,2023-10-16 00:22:17,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Innovative interactive migration
+SP-9820,Nashville WH,Durham WH,2023-09-28 22:55:28,2023-10-20 17:42:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-layered discrete hardware
+SP-9724,Chicago WH,Chicago WH,2023-09-09 07:07:00,2023-10-04 05:07:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Cross-platform exuding migration
+SP-7334,Chicago WH,New Orleans WH,2023-09-03 20:16:19,2023-10-01 12:43:11,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Mandatory cohesive leverage
+SP-7965,Miami WH,Miami WH,2023-09-03 08:52:21,2023-10-28 08:47:22,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Adaptive eco-centric initiative
+SP-2336,New Orleans WH,Detroit WH,2023-09-16 16:22:06,2023-10-22 01:14:28,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Synergistic exuding framework
+SP-3415,Atlanta WH,Atlanta WH,2023-09-03 23:14:30,2023-10-26 14:02:03,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Robust zero tolerance throughput
+SP-1180,Atlanta WH,Atlanta WH,2023-09-05 13:14:26,2023-10-09 04:11:36,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Intuitive impactful parallelism
+SP-2114,Miami WH,New Orleans WH,2023-09-07 08:29:01,2023-10-03 22:17:36,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Assimilated stable Graphical User Interface
+SP-6691,Durham WH,Detroit WH,2023-09-03 14:16:02,2023-10-08 02:23:34,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Balanced fresh-thinking complexity
+SP-3009,Durham WH,Miami WH,2023-09-16 17:17:12,2023-10-20 19:07:26,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Synergistic tertiary circuit
+SP-6184,Detroit WH,Durham WH,2023-09-25 11:49:23,2023-10-16 13:36:26,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Versatile client-driven artificial intelligence
+SP-3592,Nashville WH,Detroit WH,2023-09-05 20:13:53,2023-10-25 04:07:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Fully-configurable even-keeled productivity
+SP-4996,Nashville WH,Chicago WH,2023-09-02 05:09:21,2023-10-22 22:58:26,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Function-based foreground structure
+SP-2191,Atlanta WH,Atlanta WH,2023-09-22 15:36:00,2023-10-03 14:52:04,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Profit-focused homogeneous groupware
+SP-1496,Chicago WH,Miami WH,2023-09-11 22:14:10,2023-10-07 08:38:42,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Phased background open system
+SP-3493,Durham WH,Chicago WH,2023-09-09 11:39:03,2023-10-04 07:08:12,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Mandatory needs-based collaboration
+SP-1351,Miami WH,Nashville WH,2023-09-20 11:28:54,2023-10-10 10:09:18,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Triple-buffered user-facing moderator
+SP-5630,Detroit WH,New Orleans WH,2023-09-29 15:06:49,2023-10-24 00:11:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Synchronised incremental alliance
+SP-4282,Miami WH,Atlanta WH,2023-09-27 06:08:56,2023-10-29 14:34:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Synergized systemic infrastructure
+SP-0353,Durham WH,Detroit WH,2023-09-01 23:38:06,2023-10-02 07:32:35,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Digitized discrete customer loyalty
+SP-8155,Chicago WH,Nashville WH,2023-09-10 15:36:34,2023-10-01 14:41:38,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Secured maximized Graphic Interface
+SP-7462,Detroit WH,Atlanta WH,2023-09-05 23:51:14,2023-10-06 19:04:21,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Fundamental contextually-based projection
+SP-8404,Atlanta WH,Chicago WH,2023-09-12 20:48:11,2023-10-04 03:49:15,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Diverse incremental hub
+SP-5865,Miami WH,Detroit WH,2023-09-15 13:55:48,2023-10-08 15:40:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Synergistic optimizing matrices
+SP-3646,Miami WH,Miami WH,2023-09-03 03:01:10,2023-10-03 00:51:59,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Enterprise-wide zero administration website
+SP-5709,Miami WH,Detroit WH,2023-09-19 22:45:22,2023-10-23 03:21:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Robust multi-tasking groupware
+SP-6471,Durham WH,Detroit WH,2023-09-19 19:25:22,2023-10-01 16:07:22,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Assimilated needs-based standardization
+SP-5972,Nashville WH,Durham WH,2023-09-10 23:23:38,2023-10-06 15:25:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Function-based regional encryption
+SP-2746,Detroit WH,Miami WH,2023-09-11 17:24:05,2023-10-04 05:48:21,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable systemic matrices
+SP-2172,New Orleans WH,Detroit WH,2023-09-06 16:58:45,2023-10-23 20:14:33,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Secured composite info-mediaries
+SP-8851,Atlanta WH,Nashville WH,2023-09-03 23:50:16,2023-10-16 18:28:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Focused regional analyzer
+SP-2246,Miami WH,Durham WH,2023-09-21 15:59:00,2023-10-04 02:54:29,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Front-line human-resource capacity
+SP-5105,Detroit WH,Miami WH,2023-09-15 11:39:19,2023-10-17 04:18:25,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Sharable incremental ability
+SP-5436,New Orleans WH,Miami WH,2023-09-19 17:30:55,2023-10-16 18:39:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Diverse didactic access
+SP-9462,Detroit WH,New Orleans WH,2023-09-24 03:13:31,2023-10-19 15:23:00,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Customer-focused discrete capacity
+SP-7271,Nashville WH,Detroit WH,2023-09-09 00:21:18,2023-10-07 02:58:33,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Organized user-facing frame
+SP-1772,Nashville WH,Durham WH,2023-09-03 10:54:44,2023-10-29 21:40:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Reactive zero tolerance parallelism
+SP-1264,Atlanta WH,Durham WH,2023-09-21 19:19:58,2023-10-22 07:03:43,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Quality-focused needs-based function
+SP-6829,Chicago WH,Durham WH,2023-09-13 07:31:37,2023-10-24 02:09:49,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Total global framework
+SP-8756,Chicago WH,Atlanta WH,2023-09-14 10:34:47,2023-10-05 12:07:06,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Ameliorated intermediate structure
+SP-7973,Nashville WH,Detroit WH,2023-09-08 12:46:53,2023-10-08 11:00:13,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Customizable foreground open system
+SP-2662,Chicago WH,Miami WH,2023-09-19 13:50:17,2023-10-28 23:59:33,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Organic dedicated orchestration
+SP-7835,Detroit WH,Miami WH,2023-09-22 11:11:27,2023-10-06 10:53:55,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synchronised logistical application
+SP-8884,Atlanta WH,Durham WH,2023-09-09 16:21:59,2023-10-20 09:00:29,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Adaptive even-keeled project
+SP-9942,Durham WH,Detroit WH,2023-09-04 07:21:44,2023-10-17 08:26:33,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-channelled 24/7 hierarchy
+SP-7058,Detroit WH,Detroit WH,2023-09-16 01:29:08,2023-10-08 18:31:53,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synergized eco-centric matrices
+SP-6321,Nashville WH,Durham WH,2023-09-05 09:40:03,2023-10-30 06:37:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Function-based executive support
+SP-3622,Detroit WH,Durham WH,2023-09-10 21:28:59,2023-10-13 23:45:34,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Optional multi-state groupware
+SP-8905,Detroit WH,Miami WH,2023-09-21 20:54:58,2023-10-10 19:53:00,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Switchable national customer loyalty
+SP-5370,Nashville WH,Nashville WH,2023-09-20 10:56:53,2023-10-01 22:26:30,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive web-enabled productivity
+SP-2141,Miami WH,Nashville WH,2023-09-15 23:08:31,2023-10-04 16:40:42,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Synergistic optimizing firmware
+SP-9480,Nashville WH,Durham WH,2023-09-10 21:42:47,2023-10-13 02:19:10,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Digitized 24/7 budgetary management
+SP-7815,Atlanta WH,Miami WH,2023-09-23 01:59:05,2023-10-12 23:17:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Streamlined demand-driven focus group
+SP-5353,Miami WH,Nashville WH,2023-09-24 23:45:03,2023-10-05 01:59:37,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Reverse-engineered object-oriented matrix
+SP-6079,Chicago WH,Atlanta WH,2023-09-23 02:35:57,2023-10-20 03:46:35,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Phased systemic pricing structure
+SP-9664,New Orleans WH,Atlanta WH,2023-09-02 04:18:49,2023-10-29 16:49:24,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Reverse-engineered executive knowledge user
+SP-7594,Miami WH,New Orleans WH,2023-09-10 21:00:19,2023-10-29 07:56:34,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Open-source homogeneous methodology
+SP-7967,Nashville WH,Durham WH,2023-09-19 11:11:22,2023-10-17 07:28:35,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Virtual disintermediate product
+SP-9538,Atlanta WH,Durham WH,2023-09-03 11:22:22,2023-10-23 09:44:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Realigned analyzing collaboration
+SP-0497,New Orleans WH,New Orleans WH,2023-09-20 12:11:37,2023-10-24 03:24:10,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Implemented 6th generation migration
+SP-4799,Durham WH,Atlanta WH,2023-09-29 15:54:33,2023-10-14 05:54:08,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Advanced radical portal
+SP-9656,New Orleans WH,Miami WH,2023-09-26 09:06:45,2023-10-02 14:54:25,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Digitized modular challenge
+SP-6666,Nashville WH,New Orleans WH,2023-09-08 20:07:56,2023-10-03 15:10:38,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Devolved foreground adapter
+SP-6221,Detroit WH,New Orleans WH,2023-09-04 13:33:06,2023-10-30 01:02:34,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Realigned 6th generation protocol
+SP-8627,Durham WH,Atlanta WH,2023-09-23 01:16:41,2023-10-19 15:13:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Monitored scalable hierarchy
+SP-1542,Atlanta WH,Chicago WH,2023-09-03 11:19:08,2023-10-19 18:38:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Profit-focused solution-oriented application
+SP-2532,Durham WH,Atlanta WH,2023-09-15 10:23:39,2023-10-24 15:03:22,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Organic multi-tasking orchestration
+SP-7193,New Orleans WH,Detroit WH,2023-09-29 17:53:59,2023-10-29 16:02:35,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Profit-focused composite success
+SP-5533,Durham WH,Nashville WH,2023-09-21 10:36:42,2023-10-18 01:57:25,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Universal mission-critical solution
+SP-6880,Miami WH,New Orleans WH,2023-09-17 18:41:54,2023-10-13 14:22:18,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Cross-group attitude-oriented info-mediaries
+SP-8974,Nashville WH,Detroit WH,2023-09-02 13:20:59,2023-10-05 06:45:31,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Team-oriented executive migration
+SP-3536,Chicago WH,Detroit WH,2023-09-16 15:58:12,2023-10-05 04:11:41,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Distributed exuding challenge
+SP-4983,Atlanta WH,Detroit WH,2023-09-01 02:24:42,2023-10-03 12:08:28,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Cross-platform reciprocal focus group
+SP-4768,Miami WH,Atlanta WH,2023-09-16 23:26:18,2023-10-04 11:56:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Configurable 5th generation workforce
+SP-9278,New Orleans WH,Durham WH,2023-09-23 04:53:39,2023-10-24 13:33:30,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Innovative analyzing focus group
+SP-0214,Nashville WH,Chicago WH,2023-09-14 02:47:37,2023-10-26 19:29:30,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Innovative optimizing solution
+SP-3177,Chicago WH,New Orleans WH,2023-09-17 07:07:14,2023-10-26 21:08:41,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected directional portal
+SP-6361,Nashville WH,New Orleans WH,2023-09-01 03:59:32,2023-10-10 11:20:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Fully-configurable encompassing encoding
+SP-9251,Nashville WH,New Orleans WH,2023-09-04 15:04:25,2023-10-19 04:26:52,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Advanced logistical time-frame
+SP-8368,Nashville WH,Detroit WH,2023-09-20 10:33:19,2023-10-28 08:38:32,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Horizontal systemic initiative
+SP-1350,Miami WH,Nashville WH,2023-09-07 20:18:46,2023-10-22 23:55:24,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,De-engineered 4th generation info-mediaries
+SP-7935,Miami WH,Miami WH,2023-09-11 14:43:57,2023-10-12 23:07:14,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Re-contextualized executive model
+SP-4310,Nashville WH,Atlanta WH,2023-09-12 01:13:48,2023-10-06 15:33:16,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable dedicated matrix
+SP-8237,Atlanta WH,Durham WH,2023-09-17 08:31:47,2023-10-29 19:55:01,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Right-sized uniform benchmark
+SP-4630,Atlanta WH,Chicago WH,2023-09-15 03:24:37,2023-10-20 07:54:41,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Pre-emptive zero administration time-frame
+SP-8073,Detroit WH,Atlanta WH,2023-09-10 08:24:49,2023-10-09 13:08:07,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Stand-alone zero tolerance task-force
+SP-0280,New Orleans WH,Chicago WH,2023-09-02 10:57:39,2023-10-03 14:42:10,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Horizontal bifurcated infrastructure
+SP-3569,Miami WH,Chicago WH,2023-09-02 04:36:01,2023-10-19 01:19:44,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Object-based grid-enabled local area network
+SP-8356,Nashville WH,Detroit WH,2023-09-22 22:15:12,2023-10-16 02:24:31,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Programmable high-level open system
+SP-6218,Nashville WH,New Orleans WH,2023-09-05 01:00:21,2023-10-08 10:11:47,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-channelled real-time help-desk
+SP-3656,New Orleans WH,New Orleans WH,2023-09-07 12:30:47,2023-10-26 02:03:56,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Devolved upward-trending superstructure
+SP-3730,Durham WH,Nashville WH,2023-09-26 08:23:20,2023-10-25 02:32:21,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Advanced zero tolerance circuit
+SP-6308,Nashville WH,New Orleans WH,2023-09-17 11:28:13,2023-10-22 02:27:34,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Right-sized object-oriented time-frame
+SP-9485,Chicago WH,Miami WH,2023-09-23 21:32:55,2023-10-03 23:51:14,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,User-centric disintermediate Graphical User Interface
+SP-7084,Atlanta WH,Atlanta WH,2023-09-15 09:26:42,2023-10-09 07:35:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Synergistic contextually-based intranet
+SP-4948,Nashville WH,Nashville WH,2023-09-20 19:59:07,2023-10-25 08:38:22,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Persistent analyzing alliance
+SP-8122,Detroit WH,New Orleans WH,2023-09-29 09:52:43,2023-10-11 02:21:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Triple-buffered tertiary monitoring
+SP-4710,Durham WH,Nashville WH,2023-09-23 16:07:32,2023-10-15 16:33:02,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Vision-oriented 6th generation local area network
+SP-0799,Miami WH,Miami WH,2023-09-25 21:06:25,2023-10-05 09:04:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Front-line non-volatile portal
+SP-2342,New Orleans WH,Durham WH,2023-09-04 04:16:30,2023-10-07 05:07:54,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Versatile grid-enabled complexity
+SP-6864,Durham WH,Chicago WH,2023-09-02 08:42:52,2023-10-30 07:28:59,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Function-based impactful migration
+SP-6872,Nashville WH,Atlanta WH,2023-09-18 21:10:36,2023-10-07 05:18:50,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Face to face dedicated methodology
+SP-1062,Durham WH,Durham WH,2023-09-06 23:36:00,2023-10-27 20:45:36,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Compatible transitional approach
+SP-8481,New Orleans WH,Detroit WH,2023-09-04 00:22:40,2023-10-18 19:01:06,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Right-sized real-time matrix
+SP-3922,Durham WH,Durham WH,2023-09-13 23:22:45,2023-10-29 01:04:45,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Diverse client-server portal
+SP-3721,Chicago WH,Nashville WH,2023-09-07 07:15:19,2023-10-10 21:23:49,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Optimized heuristic matrices
+SP-7435,Nashville WH,Durham WH,2023-09-10 10:58:08,2023-10-14 18:36:55,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Operative stable productivity
+SP-8563,Miami WH,Detroit WH,2023-09-12 11:54:55,2023-10-22 00:26:30,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Visionary composite model
+SP-1421,Detroit WH,Chicago WH,2023-09-28 16:27:35,2023-10-04 00:21:32,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,De-engineered hybrid task-force
+SP-1576,Durham WH,Nashville WH,2023-09-25 09:49:03,2023-10-16 12:39:45,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Realigned 24/7 implementation
+SP-2309,Chicago WH,Chicago WH,2023-09-15 22:15:12,2023-10-04 17:20:21,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Grass-roots client-driven benchmark
+SP-5145,New Orleans WH,New Orleans WH,2023-09-20 01:40:58,2023-10-11 11:25:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Adaptive dedicated approach
+SP-5113,Atlanta WH,New Orleans WH,2023-09-22 21:46:34,2023-10-09 12:14:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Extended local focus group
+SP-6968,New Orleans WH,Detroit WH,2023-09-14 00:13:02,2023-10-23 20:08:59,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Public-key 5th generation extranet
+SP-0322,Detroit WH,Detroit WH,2023-09-23 06:29:56,2023-10-16 09:43:40,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Right-sized user-facing challenge
+SP-0545,Nashville WH,Atlanta WH,2023-09-25 05:25:20,2023-10-06 09:40:57,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,De-engineered logistical implementation
+SP-8081,Nashville WH,Chicago WH,2023-09-28 06:35:32,2023-10-27 09:36:03,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Assimilated analyzing projection
+SP-7149,Detroit WH,Durham WH,2023-09-20 11:35:34,2023-10-19 07:12:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Cross-group mission-critical matrix
+SP-2264,Durham WH,Durham WH,2023-09-10 16:21:39,2023-10-19 08:34:51,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Assimilated scalable orchestration
+SP-7648,Atlanta WH,Detroit WH,2023-09-11 23:59:33,2023-10-16 08:34:07,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,User-friendly coherent encryption
+SP-7970,Nashville WH,Nashville WH,2023-09-05 02:43:37,2023-10-01 20:57:54,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Adaptive coherent application
+SP-8342,Durham WH,Nashville WH,2023-09-10 03:52:20,2023-10-16 14:42:15,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Centralized exuding throughput
+SP-3093,Nashville WH,Nashville WH,2023-09-19 22:22:54,2023-10-01 15:21:34,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Cross-platform demand-driven Graphical User Interface
+SP-4153,Detroit WH,Nashville WH,2023-09-12 12:38:37,2023-10-11 10:19:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Distributed local flexibility
+SP-5549,Atlanta WH,Nashville WH,2023-09-06 23:28:46,2023-10-21 16:40:45,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Extended 5th generation matrix
+SP-0283,Detroit WH,Atlanta WH,2023-09-19 09:32:09,2023-10-28 14:05:03,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Innovative bi-directional pricing structure
+SP-8134,Nashville WH,Miami WH,2023-09-17 17:15:10,2023-10-19 18:10:36,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Robust bottom-line core
+SP-4674,Nashville WH,Miami WH,2023-09-22 15:45:26,2023-10-13 12:17:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Down-sized methodical methodology
+SP-0773,Nashville WH,New Orleans WH,2023-09-15 03:05:35,2023-10-06 10:17:29,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Vision-oriented hybrid attitude
+SP-7915,Durham WH,Detroit WH,2023-09-24 02:43:09,2023-10-24 21:07:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Pre-emptive executive task-force
+SP-4747,Miami WH,New Orleans WH,2023-09-29 07:20:58,2023-10-21 13:08:22,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Polarised even-keeled secured line
+SP-3987,Nashville WH,Chicago WH,2023-09-23 11:54:45,2023-10-25 06:48:16,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synergized empowering customer loyalty
+SP-7852,Detroit WH,Nashville WH,2023-09-20 21:14:54,2023-10-11 07:57:52,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Pre-emptive intangible attitude
+SP-6736,New Orleans WH,Detroit WH,2023-09-24 19:03:33,2023-10-06 11:20:19,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Monitored executive algorithm
+SP-1021,Chicago WH,Detroit WH,2023-09-26 20:08:59,2023-10-20 08:32:44,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Expanded scalable migration
+SP-0866,Chicago WH,Atlanta WH,2023-09-16 23:41:13,2023-10-26 11:20:05,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Quality-focused 5th generation parallelism
+SP-5862,Detroit WH,Nashville WH,2023-09-20 23:37:12,2023-10-25 10:12:34,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Expanded local contingency
+SP-8757,New Orleans WH,Atlanta WH,2023-09-02 17:44:51,2023-10-25 04:05:01,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Programmable solution-oriented alliance
+SP-7318,Miami WH,Durham WH,2023-09-20 23:32:51,2023-10-05 03:56:59,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Adaptive secondary encoding
+SP-5867,Miami WH,Detroit WH,2023-09-25 09:17:52,2023-10-17 14:19:53,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent clear-thinking task-force
+SP-5153,Nashville WH,Nashville WH,2023-09-29 18:40:46,2023-10-11 20:58:10,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Secured multi-tasking focus group
+SP-2610,Durham WH,New Orleans WH,2023-09-01 08:57:26,2023-10-09 12:47:02,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Distributed zero tolerance budgetary management
+SP-6777,Miami WH,Durham WH,2023-09-15 19:30:51,2023-10-11 12:53:25,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Switchable disintermediate parallelism
+SP-7950,New Orleans WH,Miami WH,2023-09-08 10:54:15,2023-10-04 02:40:58,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Public-key homogeneous contingency
+SP-5581,Miami WH,Durham WH,2023-09-07 19:32:18,2023-10-04 23:12:14,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Networked contextually-based intranet
+SP-7016,Miami WH,Atlanta WH,2023-09-23 06:52:35,2023-10-19 01:09:37,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Inverse bandwidth-monitored matrices
+SP-9995,Nashville WH,Durham WH,2023-09-13 06:59:51,2023-10-07 01:58:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Implemented regional software
+SP-1973,Atlanta WH,Durham WH,2023-09-03 15:12:38,2023-10-06 14:57:11,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive cohesive interface
+SP-9947,New Orleans WH,Miami WH,2023-09-02 02:30:57,2023-10-04 01:02:53,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Advanced needs-based parallelism
+SP-2805,Durham WH,Miami WH,2023-09-28 02:29:45,2023-10-07 11:31:41,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Streamlined impactful leverage
+SP-2434,New Orleans WH,Miami WH,2023-09-25 15:10:13,2023-10-15 02:27:27,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Virtual optimizing functionalities
+SP-5220,Nashville WH,New Orleans WH,2023-09-05 14:01:29,2023-10-10 19:37:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Pre-emptive composite knowledge base
+SP-7986,New Orleans WH,Detroit WH,2023-09-26 15:54:51,2023-10-21 20:23:28,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-architected high-level info-mediaries
+SP-0441,New Orleans WH,New Orleans WH,2023-09-15 11:42:01,2023-10-12 17:47:37,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Down-sized next generation time-frame
+SP-6338,Atlanta WH,Atlanta WH,2023-09-24 11:59:49,2023-10-24 10:29:23,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Realigned actuating orchestration
+SP-1212,Miami WH,Chicago WH,2023-09-25 01:26:26,2023-10-18 06:26:45,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral incremental infrastructure
+SP-7408,Miami WH,Durham WH,2023-09-03 04:24:10,2023-10-29 05:00:46,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Distributed web-enabled superstructure
+SP-8906,Miami WH,New Orleans WH,2023-09-02 01:52:38,2023-10-16 04:15:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Triple-buffered solution-oriented alliance
+SP-1980,Miami WH,New Orleans WH,2023-09-24 23:32:47,2023-10-08 16:35:03,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Extended optimizing access
+SP-1967,Nashville WH,Durham WH,2023-09-27 22:41:09,2023-10-20 23:36:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive next generation array
+SP-1019,Nashville WH,Nashville WH,2023-09-13 03:08:06,2023-10-04 21:41:58,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Expanded hybrid customer loyalty
+SP-3637,Chicago WH,Nashville WH,2023-09-23 03:30:46,2023-10-18 18:42:55,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Quality-focused zero defect superstructure
+SP-9706,Detroit WH,Atlanta WH,2023-09-23 17:43:31,2023-10-23 04:11:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Future-proofed real-time support
+SP-2020,Durham WH,Atlanta WH,2023-09-25 03:50:23,2023-10-17 10:07:40,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Grass-roots encompassing conglomeration
+SP-6575,Atlanta WH,Durham WH,2023-09-16 23:56:08,2023-10-05 10:01:52,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Integrated multi-state focus group
+SP-3121,Miami WH,Atlanta WH,2023-09-28 08:48:05,2023-10-03 04:26:07,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-channelled content-based knowledge user
+SP-7519,Atlanta WH,Chicago WH,2023-09-27 14:37:00,2023-10-28 03:10:18,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-layered actuating matrix
+SP-3175,Detroit WH,Miami WH,2023-09-28 07:43:49,2023-10-23 22:06:04,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-platform optimizing emulation
+SP-4057,Durham WH,Chicago WH,2023-09-21 06:02:05,2023-10-05 20:05:02,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,User-centric methodical monitoring
+SP-0112,Detroit WH,Nashville WH,2023-09-26 09:45:54,2023-10-25 04:36:19,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Pre-emptive system-worthy structure
+SP-8953,Durham WH,Atlanta WH,2023-09-12 07:23:01,2023-10-12 16:35:05,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent multi-state middleware
+SP-8937,Detroit WH,Chicago WH,2023-09-17 22:12:20,2023-10-06 01:33:55,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Digitized bi-directional toolset
+SP-0750,Detroit WH,Durham WH,2023-09-23 22:39:49,2023-10-18 03:10:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Configurable national framework
+SP-6471,Chicago WH,Chicago WH,2023-09-13 18:57:44,2023-10-16 05:15:42,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Virtual exuding implementation
+SP-6779,Atlanta WH,New Orleans WH,2023-09-18 09:28:39,2023-10-28 23:17:57,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Future-proofed foreground budgetary management
+SP-5763,New Orleans WH,New Orleans WH,2023-09-24 10:16:48,2023-10-25 20:59:29,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Ergonomic multi-tasking instruction set
+SP-7802,New Orleans WH,Miami WH,2023-09-01 22:12:30,2023-10-25 19:30:09,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Persistent 4th generation service-desk
+SP-1285,New Orleans WH,Detroit WH,2023-09-11 19:16:48,2023-10-05 20:35:12,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Exclusive national conglomeration
+SP-4309,Miami WH,Atlanta WH,2023-09-16 11:45:41,2023-10-19 06:14:34,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Object-based fresh-thinking conglomeration
+SP-4781,Chicago WH,Miami WH,2023-09-03 09:09:11,2023-10-16 17:57:43,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Automated interactive open architecture
+SP-0707,Nashville WH,Atlanta WH,2023-09-22 05:33:09,2023-10-29 01:51:16,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Compatible fresh-thinking flexibility
+SP-7079,Atlanta WH,Nashville WH,2023-09-29 03:06:25,2023-10-19 13:02:22,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Organized 6th generation knowledge user
+SP-7557,Nashville WH,Durham WH,2023-09-06 03:24:49,2023-10-19 15:47:57,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Balanced intangible moratorium
+SP-0170,Durham WH,Nashville WH,2023-09-21 16:29:01,2023-10-20 23:35:29,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,De-engineered mission-critical adapter
+SP-9652,New Orleans WH,Durham WH,2023-09-14 18:25:03,2023-10-05 05:24:32,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Universal user-facing pricing structure
+SP-7613,Atlanta WH,Atlanta WH,2023-09-18 13:52:18,2023-10-29 07:21:09,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Exclusive systematic firmware
+SP-7714,Detroit WH,Miami WH,2023-09-11 05:06:18,2023-10-25 07:57:38,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,De-engineered national capacity
+SP-3183,Miami WH,Miami WH,2023-09-22 21:20:13,2023-10-18 20:01:12,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Object-based motivating core
+SP-2845,Miami WH,Atlanta WH,2023-09-22 20:28:17,2023-10-13 18:32:34,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Virtual multi-state superstructure
+SP-8588,Nashville WH,Nashville WH,2023-09-29 20:02:31,2023-10-29 11:00:08,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-platform asynchronous access
+SP-0884,Detroit WH,Miami WH,2023-09-28 07:24:23,2023-10-05 07:04:17,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Networked system-worthy capability
+SP-1120,Chicago WH,New Orleans WH,2023-09-24 19:03:23,2023-10-15 16:52:04,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Decentralized grid-enabled complexity
+SP-6168,Chicago WH,New Orleans WH,2023-09-10 01:26:51,2023-10-25 15:05:54,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Streamlined incremental array
+SP-5868,Miami WH,Detroit WH,2023-09-27 10:12:58,2023-10-18 20:19:18,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Versatile motivating software
+SP-4435,Nashville WH,New Orleans WH,2023-09-08 04:10:45,2023-10-19 22:46:28,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Seamless bi-directional alliance
+SP-4615,Atlanta WH,Atlanta WH,2023-09-18 07:59:43,2023-10-25 11:40:41,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Reactive coherent approach
+SP-3431,New Orleans WH,Detroit WH,2023-09-20 09:07:45,2023-10-24 06:40:50,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Monitored bottom-line frame
+SP-8849,Durham WH,Detroit WH,2023-09-11 20:17:39,2023-10-25 01:52:04,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,De-engineered demand-driven budgetary management
+SP-1385,Durham WH,Miami WH,2023-09-14 23:22:50,2023-10-04 17:32:43,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Universal 6th generation definition
+SP-8622,Atlanta WH,Chicago WH,2023-09-20 09:21:24,2023-10-22 20:54:37,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Upgradable uniform hub
+SP-8011,Miami WH,Detroit WH,2023-09-11 18:28:11,2023-10-21 15:05:57,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Reduced national leverage
+SP-4312,New Orleans WH,Detroit WH,2023-09-27 11:31:09,2023-10-25 02:04:30,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Function-based responsive benchmark
+SP-8129,Detroit WH,Chicago WH,2023-09-21 09:52:21,2023-10-19 04:12:40,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Fully-configurable asynchronous access
+SP-3029,Nashville WH,Atlanta WH,2023-09-10 13:35:19,2023-10-16 05:28:21,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Advanced clear-thinking algorithm
+SP-1198,Detroit WH,Atlanta WH,2023-09-16 09:27:43,2023-10-01 14:38:40,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Focused needs-based help-desk
+SP-2876,Detroit WH,Durham WH,2023-09-07 15:52:03,2023-10-19 23:37:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Cloned user-facing instruction set
+SP-8320,Durham WH,Chicago WH,2023-09-01 15:59:58,2023-10-29 14:14:08,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Balanced mobile pricing structure
+SP-0547,Durham WH,Durham WH,2023-09-27 03:39:26,2023-10-13 07:53:10,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Managed content-based service-desk
+SP-8560,Nashville WH,Detroit WH,2023-09-29 17:43:03,2023-10-13 17:21:15,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,User-friendly background protocol
+SP-4684,Atlanta WH,Detroit WH,2023-09-26 18:48:50,2023-10-02 18:01:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Enhanced needs-based info-mediaries
+SP-2027,Durham WH,New Orleans WH,2023-09-05 00:19:42,2023-10-19 20:33:30,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Re-engineered grid-enabled capacity
+SP-0027,Durham WH,Nashville WH,2023-09-24 16:27:57,2023-10-11 20:58:48,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-tiered discrete time-frame
+SP-5415,Miami WH,Atlanta WH,2023-09-07 11:31:29,2023-10-09 02:27:55,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Reactive didactic synergy
+SP-2809,Miami WH,Nashville WH,2023-09-14 12:48:37,2023-10-23 12:57:01,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Customer-focused eco-centric Graphic Interface
+SP-9105,Chicago WH,New Orleans WH,2023-09-01 15:04:45,2023-10-22 07:18:56,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Configurable local projection
+SP-3145,Chicago WH,Chicago WH,2023-09-21 19:21:44,2023-10-13 04:07:20,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-layered needs-based budgetary management
+SP-2176,Chicago WH,Durham WH,2023-09-09 17:16:21,2023-10-14 08:33:54,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Configurable zero defect budgetary management
+SP-3615,New Orleans WH,Durham WH,2023-09-01 13:09:58,2023-10-19 14:42:25,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,User-centric 6th generation Graphic Interface
+SP-2935,Miami WH,New Orleans WH,2023-09-15 14:06:41,2023-10-05 04:55:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Future-proofed 3rd generation archive
+SP-6779,Chicago WH,Detroit WH,2023-09-05 10:15:34,2023-10-07 09:07:46,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Operative discrete budgetary management
+SP-5883,Durham WH,New Orleans WH,2023-09-22 01:23:52,2023-10-12 02:22:23,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Seamless real-time algorithm
+SP-9794,Durham WH,Detroit WH,2023-09-05 19:13:57,2023-10-02 05:57:41,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Streamlined grid-enabled algorithm
+SP-2525,Durham WH,New Orleans WH,2023-09-06 11:34:11,2023-10-17 08:42:26,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Monitored reciprocal matrices
+SP-6594,New Orleans WH,Chicago WH,2023-09-21 07:02:19,2023-10-20 01:56:12,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Diverse grid-enabled toolset
+SP-1155,Atlanta WH,Miami WH,2023-09-07 15:02:37,2023-10-28 02:04:15,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Centralized systematic knowledge user
+SP-9199,Detroit WH,New Orleans WH,2023-09-26 21:05:27,2023-10-05 10:48:15,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Monitored coherent process improvement
+SP-0587,Durham WH,Detroit WH,2023-09-22 17:30:55,2023-10-28 01:56:17,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Synergistic local concept
+SP-3769,Durham WH,Atlanta WH,2023-09-08 23:01:33,2023-10-01 00:11:14,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected scalable archive
+SP-1673,Chicago WH,Durham WH,2023-09-19 17:00:07,2023-10-11 17:33:30,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Re-engineered systematic secured line
+SP-0974,Atlanta WH,New Orleans WH,2023-09-25 08:22:52,2023-10-14 09:47:29,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Open-architected asynchronous success
+SP-9161,New Orleans WH,Atlanta WH,2023-09-28 14:25:32,2023-10-06 04:24:19,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Progressive solution-oriented migration
+SP-6692,Miami WH,Atlanta WH,2023-09-25 02:18:50,2023-10-15 20:29:06,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Up-sized reciprocal circuit
+SP-9757,Chicago WH,New Orleans WH,2023-09-08 18:03:40,2023-10-08 09:01:18,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-tiered system-worthy task-force
+SP-2477,Durham WH,Miami WH,2023-09-03 00:58:25,2023-10-28 06:20:52,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-source multimedia superstructure
+SP-6025,New Orleans WH,Durham WH,2023-09-24 12:25:32,2023-10-12 22:59:36,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Up-sized contextually-based local area network
+SP-6142,Atlanta WH,New Orleans WH,2023-09-21 06:16:06,2023-10-17 01:58:20,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Pre-emptive encompassing website
+SP-4118,New Orleans WH,Durham WH,2023-09-24 09:18:32,2023-10-02 21:44:58,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Monitored human-resource benchmark
+SP-1442,Atlanta WH,New Orleans WH,2023-09-17 22:08:43,2023-10-30 11:39:21,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Switchable modular paradigm
+SP-8959,Detroit WH,Nashville WH,2023-09-21 10:04:30,2023-10-18 21:43:57,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Configurable transitional utilisation
+SP-9581,Nashville WH,Miami WH,2023-09-19 01:10:07,2023-10-05 02:19:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Sharable next generation open system
+SP-3555,Nashville WH,Detroit WH,2023-09-20 21:58:01,2023-10-18 00:18:36,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Customer-focused value-added internet solution
+SP-3423,Atlanta WH,Durham WH,2023-09-20 21:57:40,2023-10-13 18:08:45,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Quality-focused solution-oriented budgetary management
+SP-3378,Nashville WH,Chicago WH,2023-09-10 18:36:47,2023-10-08 04:30:19,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Streamlined multimedia concept
+SP-6627,Detroit WH,Durham WH,2023-09-04 19:30:24,2023-10-05 12:19:37,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-channelled intermediate moderator
+SP-1468,Chicago WH,Atlanta WH,2023-09-06 17:01:44,2023-10-14 15:37:52,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Enterprise-wide needs-based capability
+SP-9079,New Orleans WH,Detroit WH,2023-09-07 03:18:01,2023-10-11 19:30:24,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Expanded mobile capability
+SP-7588,Nashville WH,Nashville WH,2023-09-13 15:14:04,2023-10-01 09:43:48,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Re-contextualized contextually-based function
+SP-0206,New Orleans WH,Chicago WH,2023-09-27 00:38:04,2023-10-15 15:52:48,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Total background orchestration
+SP-4913,New Orleans WH,Durham WH,2023-09-15 20:34:22,2023-10-07 05:12:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Open-architected 24 hour info-mediaries
+SP-9225,Nashville WH,Nashville WH,2023-09-19 20:11:05,2023-10-13 18:24:12,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Ergonomic intermediate website
+SP-5148,Atlanta WH,Miami WH,2023-09-16 23:25:57,2023-10-23 12:55:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Inverse heuristic knowledge base
+SP-6691,Atlanta WH,Atlanta WH,2023-09-08 01:08:59,2023-10-14 00:38:35,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Customizable demand-driven hub
+SP-5879,Atlanta WH,Chicago WH,2023-09-28 10:23:27,2023-10-25 04:15:54,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Grass-roots mission-critical concept
+SP-8913,Detroit WH,Detroit WH,2023-09-06 11:37:27,2023-10-16 22:21:53,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Re-contextualized fault-tolerant contingency
+SP-3122,Atlanta WH,Nashville WH,2023-09-12 08:14:05,2023-10-23 14:26:25,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional composite interface
+SP-4789,Nashville WH,New Orleans WH,2023-09-21 07:46:32,2023-10-05 22:31:29,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Optional tertiary portal
+SP-0860,Miami WH,Miami WH,2023-09-05 20:52:01,2023-10-28 22:04:02,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Automated 5th generation knowledge user
+SP-9347,Detroit WH,Durham WH,2023-09-29 21:35:56,2023-10-03 10:03:53,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed value-added process improvement
+SP-7288,Nashville WH,Durham WH,2023-09-12 06:13:18,2023-10-27 20:45:23,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-architected dedicated open system
+SP-8681,Atlanta WH,Chicago WH,2023-09-29 03:54:41,2023-10-25 23:43:02,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Fundamental explicit firmware
+SP-6944,Durham WH,Nashville WH,2023-09-04 10:42:18,2023-10-24 13:14:35,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Up-sized secondary migration
+SP-4304,Detroit WH,Detroit WH,2023-09-23 06:43:43,2023-10-23 13:14:58,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Expanded multi-state solution
+SP-5735,Detroit WH,Durham WH,2023-09-23 17:22:00,2023-10-18 08:01:45,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Secured object-oriented infrastructure
+SP-9631,Durham WH,Atlanta WH,2023-09-03 11:48:41,2023-10-23 02:55:47,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Virtual logistical benchmark
+SP-9392,Atlanta WH,Miami WH,2023-09-20 18:33:25,2023-10-09 17:16:59,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Business-focused value-added product
+SP-0917,Miami WH,Nashville WH,2023-09-22 06:16:15,2023-10-16 02:46:18,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Digitized optimizing interface
+SP-5993,Nashville WH,Detroit WH,2023-09-08 01:52:54,2023-10-22 12:20:03,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Customer-focused coherent challenge
+SP-1838,Nashville WH,Atlanta WH,2023-09-28 02:11:07,2023-10-04 02:46:27,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Implemented hybrid encryption
+SP-2269,Chicago WH,Chicago WH,2023-09-22 06:52:15,2023-10-17 08:29:58,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Profit-focused 5th generation archive
+SP-1814,New Orleans WH,Atlanta WH,2023-09-07 22:43:31,2023-10-30 11:25:56,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Face to face even-keeled benchmark
+SP-6806,Durham WH,Detroit WH,2023-09-29 06:49:22,2023-10-10 11:39:56,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Streamlined intermediate forecast
+SP-8716,Chicago WH,Miami WH,2023-09-06 01:20:02,2023-10-05 09:21:51,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Realigned optimal architecture
+SP-6309,Atlanta WH,Miami WH,2023-09-04 16:54:30,2023-10-18 18:57:35,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,User-friendly zero defect open system
+SP-8163,Detroit WH,Chicago WH,2023-09-18 08:36:42,2023-10-01 15:20:45,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Public-key 5th generation service-desk
+SP-7086,Nashville WH,Chicago WH,2023-09-01 17:12:58,2023-10-11 21:15:12,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Quality-focused demand-driven software
+SP-2952,Durham WH,Durham WH,2023-09-06 17:42:20,2023-10-05 22:55:23,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Networked 4th generation algorithm
+SP-7997,New Orleans WH,Durham WH,2023-09-16 03:48:19,2023-10-27 13:17:13,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Right-sized national process improvement
+SP-4841,Chicago WH,Miami WH,2023-09-05 03:14:56,2023-10-15 06:50:17,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Synergized bifurcated ability
+SP-1139,Durham WH,Miami WH,2023-09-14 08:24:16,2023-10-13 09:48:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Down-sized content-based system engine
+SP-2109,Chicago WH,New Orleans WH,2023-09-12 23:51:31,2023-10-27 07:49:45,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Automated static model
+SP-9598,Durham WH,Detroit WH,2023-09-21 17:44:08,2023-10-05 12:55:21,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Inverse solution-oriented policy
+SP-0104,Nashville WH,Durham WH,2023-09-26 09:27:08,2023-10-17 13:25:21,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Balanced methodical policy
+SP-5589,New Orleans WH,Atlanta WH,2023-09-22 22:02:47,2023-10-07 10:35:25,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-tiered neutral complexity
+SP-0679,Atlanta WH,Detroit WH,2023-09-29 01:59:21,2023-10-18 18:13:55,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Virtual executive interface
+SP-1133,Nashville WH,New Orleans WH,2023-09-02 01:19:47,2023-10-23 21:31:53,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Devolved directional matrix
+SP-6473,Nashville WH,Chicago WH,2023-09-03 14:20:35,2023-10-23 14:30:55,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Customizable full-range moratorium
+SP-4512,Atlanta WH,Nashville WH,2023-09-04 07:11:29,2023-10-04 09:24:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Ergonomic background hardware
+SP-1110,New Orleans WH,Durham WH,2023-09-07 14:28:36,2023-10-27 05:08:05,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-channelled regional interface
+SP-8630,Miami WH,Durham WH,2023-09-22 23:21:36,2023-10-06 05:57:53,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Cross-platform secondary synergy
+SP-1688,Miami WH,Detroit WH,2023-09-22 18:14:27,2023-10-20 20:02:31,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Advanced mission-critical alliance
+SP-4341,Miami WH,Atlanta WH,2023-09-20 19:02:10,2023-10-14 02:31:44,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Switchable composite adapter
+SP-1939,Durham WH,Chicago WH,2023-09-19 19:30:22,2023-10-01 11:00:20,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Balanced didactic implementation
+SP-9889,Miami WH,Detroit WH,2023-09-20 06:58:40,2023-10-12 11:33:24,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Horizontal logistical concept
+SP-9137,Nashville WH,Atlanta WH,2023-09-21 15:00:10,2023-10-21 13:31:00,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,User-friendly modular model
+SP-8371,Miami WH,Durham WH,2023-09-08 17:17:28,2023-10-17 03:12:19,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Virtual non-volatile budgetary management
+SP-9391,Atlanta WH,Durham WH,2023-09-06 15:28:11,2023-10-01 00:43:34,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive background challenge
+SP-9749,Chicago WH,Detroit WH,2023-09-20 01:53:02,2023-10-17 12:08:30,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Mandatory high-level standardization
+SP-9781,Chicago WH,Durham WH,2023-09-04 02:11:43,2023-10-12 18:26:19,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Integrated radical encoding
+SP-5851,Chicago WH,Detroit WH,2023-09-21 17:57:22,2023-10-18 04:57:00,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Intuitive composite support
+SP-2683,Chicago WH,Atlanta WH,2023-09-08 04:05:15,2023-10-15 06:33:52,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Secured responsive extranet
+SP-5732,Chicago WH,Durham WH,2023-09-15 21:35:00,2023-10-23 00:55:39,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Reverse-engineered coherent structure
+SP-6779,Miami WH,Miami WH,2023-09-05 16:37:26,2023-10-19 21:29:48,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Visionary incremental initiative
+SP-8362,New Orleans WH,Durham WH,2023-09-01 15:05:05,2023-10-09 23:57:18,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-layered solution-oriented orchestration
+SP-2732,Atlanta WH,Chicago WH,2023-09-08 03:22:09,2023-10-23 05:33:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Front-line encompassing benchmark
+SP-1649,Detroit WH,New Orleans WH,2023-09-29 16:06:25,2023-10-13 02:21:48,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Realigned reciprocal task-force
+SP-1368,Detroit WH,New Orleans WH,2023-09-26 10:29:50,2023-10-01 17:32:57,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Open-source coherent productivity
+SP-5893,Chicago WH,Detroit WH,2023-09-12 23:59:31,2023-10-08 03:06:07,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Seamless systemic application
+SP-4439,Nashville WH,Nashville WH,2023-09-03 19:40:19,2023-10-20 19:33:52,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Versatile systematic flexibility
+SP-3374,Miami WH,New Orleans WH,2023-09-22 18:26:44,2023-10-29 01:55:13,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Virtual value-added open system
+SP-9145,New Orleans WH,Durham WH,2023-09-27 08:38:42,2023-10-01 11:47:17,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Sharable radical installation
+SP-9854,New Orleans WH,New Orleans WH,2023-09-10 21:53:53,2023-10-05 19:11:19,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Networked human-resource workforce
+SP-9146,New Orleans WH,New Orleans WH,2023-09-01 06:59:21,2023-10-26 20:52:57,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Optional foreground ability
+SP-2179,New Orleans WH,Durham WH,2023-09-05 13:50:52,2023-10-25 07:00:24,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Fundamental upward-trending monitoring
+SP-8493,Nashville WH,Nashville WH,2023-09-27 14:33:51,2023-10-12 04:53:48,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Vision-oriented client-driven functionalities
+SP-2422,Durham WH,Atlanta WH,2023-09-14 23:38:40,2023-10-26 21:44:41,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Distributed empowering core
+SP-5256,New Orleans WH,Chicago WH,2023-09-27 03:39:05,2023-10-06 02:30:22,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Organic incremental database
+SP-2299,New Orleans WH,Nashville WH,2023-09-04 21:01:23,2023-10-04 02:46:24,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Intuitive tertiary migration
+SP-4155,New Orleans WH,Durham WH,2023-09-05 13:43:04,2023-10-01 19:16:30,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Inverse foreground solution
+SP-5220,Atlanta WH,Miami WH,2023-09-07 08:14:35,2023-10-25 22:22:50,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Progressive directional matrix
+SP-7796,Nashville WH,Miami WH,2023-09-27 02:08:49,2023-10-03 06:16:23,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Fully-configurable uniform projection
+SP-2291,New Orleans WH,Chicago WH,2023-09-05 11:36:04,2023-10-14 16:36:39,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Re-contextualized maximized framework
+SP-5410,Miami WH,Detroit WH,2023-09-09 21:15:58,2023-10-07 10:30:32,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Team-oriented foreground definition
+SP-5972,Detroit WH,New Orleans WH,2023-09-02 17:27:04,2023-10-25 06:50:14,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Robust 3rd generation concept
+SP-2679,New Orleans WH,Atlanta WH,2023-09-04 10:36:16,2023-10-11 01:48:21,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Front-line responsive toolset
+SP-7834,Detroit WH,Chicago WH,2023-09-17 14:40:33,2023-10-24 10:51:00,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Phased zero tolerance focus group
+SP-5679,Nashville WH,Miami WH,2023-09-13 09:24:23,2023-10-05 17:00:16,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Switchable intangible instruction set
+SP-1594,Miami WH,New Orleans WH,2023-09-03 06:11:41,2023-10-03 18:53:20,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Pre-emptive cohesive process improvement
+SP-8319,New Orleans WH,Nashville WH,2023-09-14 05:08:11,2023-10-05 14:46:07,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optimized multi-state challenge
+SP-4532,Detroit WH,Durham WH,2023-09-15 00:36:09,2023-10-02 04:29:34,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Programmable fresh-thinking ability
+SP-9568,Detroit WH,Chicago WH,2023-09-08 13:00:42,2023-10-05 17:14:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Optional even-keeled emulation
+SP-5138,New Orleans WH,Durham WH,2023-09-20 11:27:37,2023-10-12 23:53:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Cloned 5th generation framework
+SP-2167,Chicago WH,Nashville WH,2023-09-17 23:16:07,2023-10-26 08:49:03,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Cloned composite local area network
+SP-0944,Chicago WH,New Orleans WH,2023-09-26 12:24:36,2023-10-02 21:34:30,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable full-range project
+SP-4353,Nashville WH,New Orleans WH,2023-09-09 12:31:25,2023-10-22 05:30:37,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Networked scalable success
+SP-7297,Miami WH,Nashville WH,2023-09-14 05:55:08,2023-10-09 22:51:17,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Compatible regional complexity
+SP-7084,Atlanta WH,Durham WH,2023-09-03 17:14:35,2023-10-08 01:13:59,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Operative background parallelism
+SP-6099,Atlanta WH,Miami WH,2023-09-07 03:25:01,2023-10-05 00:27:05,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Monitored 3rd generation implementation
+SP-8186,Detroit WH,Atlanta WH,2023-09-10 05:18:29,2023-10-24 03:43:11,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Operative stable local area network
+SP-1556,Miami WH,Detroit WH,2023-09-09 09:04:31,2023-10-10 09:53:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Up-sized fault-tolerant algorithm
+SP-9151,New Orleans WH,Durham WH,2023-09-24 06:09:01,2023-10-28 11:31:34,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Re-contextualized web-enabled attitude
+SP-0397,New Orleans WH,Atlanta WH,2023-09-05 13:01:29,2023-10-20 18:41:58,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Persevering bifurcated application
+SP-0242,Nashville WH,Nashville WH,2023-09-25 17:21:51,2023-10-11 21:43:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Distributed coherent ability
+SP-1349,New Orleans WH,Atlanta WH,2023-09-19 00:36:19,2023-10-22 15:41:18,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Front-line foreground standardization
+SP-0934,New Orleans WH,Miami WH,2023-09-03 12:01:41,2023-10-18 15:03:54,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Object-based motivating functionalities
+SP-2688,Detroit WH,Durham WH,2023-09-02 11:44:58,2023-10-23 13:42:58,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Persistent interactive portal
+SP-5422,Atlanta WH,Detroit WH,2023-09-29 06:48:56,2023-10-10 23:50:29,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Team-oriented global policy
+SP-9521,Chicago WH,Nashville WH,2023-09-28 23:31:49,2023-10-19 13:40:34,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Balanced content-based productivity
+SP-9140,Nashville WH,Detroit WH,2023-09-07 00:58:02,2023-10-21 11:19:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Compatible optimal focus group
+SP-8495,Durham WH,Chicago WH,2023-09-05 12:43:15,2023-10-01 07:02:57,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Innovative 4th generation matrices
+SP-1672,Detroit WH,Chicago WH,2023-09-28 03:08:15,2023-10-20 19:09:25,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Cross-group multi-state initiative
+SP-1004,Durham WH,New Orleans WH,2023-09-11 01:57:52,2023-10-12 13:41:37,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Balanced high-level database
+SP-2034,Atlanta WH,Detroit WH,2023-09-25 12:29:22,2023-10-18 19:56:01,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Diverse transitional help-desk
+SP-6138,Nashville WH,Nashville WH,2023-09-07 07:01:20,2023-10-21 06:59:04,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Switchable dynamic help-desk
+SP-1913,Nashville WH,New Orleans WH,2023-09-10 03:44:17,2023-10-12 15:44:38,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Team-oriented bandwidth-monitored concept
+SP-2278,Durham WH,Miami WH,2023-09-18 02:03:15,2023-10-22 13:11:29,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Fundamental user-facing matrices
+SP-1187,Nashville WH,Nashville WH,2023-09-23 16:10:29,2023-10-18 12:09:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent tertiary capability
+SP-3809,Nashville WH,New Orleans WH,2023-09-02 03:28:21,2023-10-28 02:43:39,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Ergonomic secondary middleware
+SP-6411,Durham WH,Atlanta WH,2023-09-18 03:02:53,2023-10-03 04:47:48,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-channelled uniform functionalities
+SP-6822,Miami WH,New Orleans WH,2023-09-04 11:46:21,2023-10-05 11:59:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Vision-oriented object-oriented attitude
+SP-2925,Atlanta WH,Miami WH,2023-09-05 15:36:37,2023-10-05 03:24:02,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-layered hybrid adapter
+SP-9929,New Orleans WH,Chicago WH,2023-09-10 11:58:23,2023-10-05 23:03:13,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral didactic throughput
+SP-9955,Miami WH,Atlanta WH,2023-09-27 04:07:48,2023-10-12 12:22:01,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Object-based even-keeled structure
+SP-1378,Durham WH,Nashville WH,2023-09-19 19:35:37,2023-10-03 07:04:04,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Universal upward-trending model
+SP-9617,New Orleans WH,Detroit WH,2023-09-18 03:54:36,2023-10-18 00:34:06,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Programmable eco-centric synergy
+SP-7873,Chicago WH,Chicago WH,2023-09-08 12:36:30,2023-10-13 16:06:56,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Realigned system-worthy infrastructure
+SP-7278,Atlanta WH,Chicago WH,2023-09-26 15:29:42,2023-10-18 16:56:30,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Triple-buffered contextually-based utilisation
+SP-2457,Detroit WH,Miami WH,2023-09-28 04:44:59,2023-10-08 00:35:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Automated real-time knowledge user
+SP-0922,Detroit WH,Atlanta WH,2023-09-01 05:17:55,2023-10-18 12:26:35,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Advanced demand-driven customer loyalty
+SP-9704,Chicago WH,Atlanta WH,2023-09-02 00:54:03,2023-10-04 15:55:57,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Face to face 24/7 matrices
+SP-6174,Durham WH,Chicago WH,2023-09-03 16:04:35,2023-10-12 22:07:36,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Managed clear-thinking local area network
+SP-1519,Miami WH,Miami WH,2023-09-24 01:47:30,2023-10-24 22:46:25,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Ameliorated solution-oriented analyzer
+SP-6382,Detroit WH,Detroit WH,2023-09-18 14:28:20,2023-10-07 03:22:18,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Mandatory bandwidth-monitored access
+SP-4872,Chicago WH,Chicago WH,2023-09-01 21:12:57,2023-10-15 02:04:01,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Self-enabling neutral standardization
+SP-2205,Atlanta WH,New Orleans WH,2023-09-26 16:48:46,2023-10-17 18:04:50,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Seamless systematic secured line
+SP-2707,Atlanta WH,Durham WH,2023-09-03 11:24:02,2023-10-17 09:14:20,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Progressive 24/7 Graphic Interface
+SP-4013,Detroit WH,New Orleans WH,2023-09-11 18:45:19,2023-10-02 23:05:17,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Devolved intangible infrastructure
+SP-2264,Nashville WH,Nashville WH,2023-09-29 12:31:15,2023-10-10 09:21:21,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Focused bottom-line toolset
+SP-7596,New Orleans WH,Detroit WH,2023-09-21 21:04:34,2023-10-15 10:47:33,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Fundamental executive groupware
+SP-9801,Atlanta WH,Nashville WH,2023-09-21 18:24:51,2023-10-23 16:56:33,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Organized scalable utilisation
+SP-4573,Durham WH,New Orleans WH,2023-09-21 04:11:34,2023-10-23 04:27:16,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Stand-alone solution-oriented access
+SP-7717,Chicago WH,Atlanta WH,2023-09-06 10:48:20,2023-10-17 07:02:44,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Balanced transitional time-frame
+SP-5131,Durham WH,Durham WH,2023-09-16 18:00:49,2023-10-13 09:33:31,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Total zero defect customer loyalty
+SP-4674,Miami WH,Detroit WH,2023-09-26 08:19:44,2023-10-07 09:01:55,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Robust tangible intranet
+SP-1275,Atlanta WH,New Orleans WH,2023-09-26 05:52:32,2023-10-08 20:38:15,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Horizontal transitional interface
+SP-5847,Chicago WH,Nashville WH,2023-09-02 20:44:01,2023-10-10 03:00:53,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-channelled eco-centric definition
+SP-2650,Miami WH,Atlanta WH,2023-09-14 23:34:52,2023-10-02 01:06:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Polarised value-added archive
+SP-2278,Chicago WH,Detroit WH,2023-09-02 04:12:59,2023-10-30 13:43:20,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Decentralized coherent installation
+SP-9743,Atlanta WH,Detroit WH,2023-09-14 13:22:30,2023-10-13 10:15:01,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Fundamental full-range ability
+SP-7160,Atlanta WH,Miami WH,2023-09-27 23:24:32,2023-10-12 13:24:38,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Networked 24 hour hub
+SP-0911,Durham WH,Chicago WH,2023-09-21 05:19:19,2023-10-02 09:26:06,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Implemented client-driven policy
+SP-8074,Detroit WH,Miami WH,2023-09-29 15:04:55,2023-10-28 05:39:22,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Synchronised grid-enabled moratorium
+SP-3384,Nashville WH,Durham WH,2023-09-23 08:05:45,2023-10-20 18:44:31,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-tiered motivating knowledge user
+SP-2536,Nashville WH,Detroit WH,2023-09-08 17:36:27,2023-10-25 03:35:41,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Digitized multi-tasking methodology
+SP-2783,Chicago WH,Miami WH,2023-09-18 11:23:40,2023-10-02 02:20:02,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Polarised exuding algorithm
+SP-1503,Durham WH,Durham WH,2023-09-25 03:46:43,2023-10-06 19:12:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Reactive zero defect budgetary management
+SP-9695,New Orleans WH,Chicago WH,2023-09-20 01:54:20,2023-10-03 22:19:15,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Profound dynamic software
+SP-9673,Miami WH,Chicago WH,2023-09-25 02:35:33,2023-10-12 06:11:44,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-group logistical instruction set
+SP-4973,Miami WH,Atlanta WH,2023-09-27 13:55:27,2023-10-25 04:53:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Intuitive multimedia definition
+SP-2335,Miami WH,Atlanta WH,2023-09-22 04:40:47,2023-10-22 12:39:11,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Total 24 hour knowledge user
+SP-0362,New Orleans WH,New Orleans WH,2023-09-21 11:35:40,2023-10-03 05:08:35,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Right-sized intermediate secured line
+SP-3319,Chicago WH,New Orleans WH,2023-09-29 00:25:09,2023-10-14 08:58:00,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional homogeneous utilisation
+SP-1303,Atlanta WH,Durham WH,2023-09-12 23:19:44,2023-10-12 16:07:12,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Upgradable optimizing adapter
+SP-7591,Detroit WH,Nashville WH,2023-09-25 06:03:10,2023-10-04 04:08:58,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Synchronised user-facing definition
+SP-9745,Durham WH,Detroit WH,2023-09-15 00:23:01,2023-10-18 11:26:57,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Proactive hybrid throughput
+SP-5148,Miami WH,Atlanta WH,2023-09-18 20:06:35,2023-10-13 14:31:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Intuitive impactful structure
+SP-0085,Miami WH,Chicago WH,2023-09-16 22:03:17,2023-10-24 12:18:50,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Front-line high-level encryption
+SP-7150,Miami WH,Detroit WH,2023-09-23 19:50:45,2023-10-25 15:10:57,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Down-sized encompassing support
+SP-4977,Miami WH,Nashville WH,2023-09-02 14:39:45,2023-10-24 13:17:31,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Function-based static portal
+SP-7854,Durham WH,Detroit WH,2023-09-01 05:28:54,2023-10-26 17:55:17,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Integrated stable benchmark
+SP-8571,Chicago WH,Miami WH,2023-09-04 03:19:33,2023-10-25 09:17:42,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Right-sized tertiary architecture
+SP-7382,Detroit WH,Atlanta WH,2023-09-17 13:49:39,2023-10-07 02:44:59,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Streamlined mission-critical service-desk
+SP-0030,Durham WH,New Orleans WH,2023-09-19 09:17:57,2023-10-18 04:15:25,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Enterprise-wide 6th generation challenge
+SP-8328,Miami WH,Nashville WH,2023-09-03 23:20:17,2023-10-28 17:35:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Persistent maximized groupware
+SP-1266,Chicago WH,New Orleans WH,2023-09-22 12:07:18,2023-10-28 22:21:18,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Secured incremental capacity
+SP-4896,Chicago WH,Atlanta WH,2023-09-24 18:01:37,2023-10-20 02:48:25,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Managed well-modulated secured line
+SP-7480,Detroit WH,Atlanta WH,2023-09-24 10:46:00,2023-10-07 09:57:16,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed analyzing installation
+SP-5838,Nashville WH,Nashville WH,2023-09-28 07:03:28,2023-10-18 08:02:29,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented intermediate contingency
+SP-1050,Durham WH,Detroit WH,2023-09-09 11:17:14,2023-10-03 05:46:44,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Public-key heuristic monitoring
+SP-2299,Durham WH,New Orleans WH,2023-09-04 13:57:03,2023-10-09 02:13:28,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Front-line bandwidth-monitored extranet
+SP-8767,Atlanta WH,Chicago WH,2023-09-29 04:56:07,2023-10-06 05:11:49,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Digitized bandwidth-monitored budgetary management
+SP-8461,New Orleans WH,Miami WH,2023-09-22 19:06:48,2023-10-04 16:50:42,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Team-oriented client-driven approach
+SP-9880,Durham WH,Nashville WH,2023-09-22 00:11:03,2023-10-29 16:33:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Face to face tangible time-frame
+SP-1927,Durham WH,Durham WH,2023-09-17 07:38:35,2023-10-02 11:28:38,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,User-centric disintermediate focus group
+SP-2270,Atlanta WH,Nashville WH,2023-09-07 15:12:40,2023-10-15 22:22:18,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Operative analyzing conglomeration
+SP-9130,Atlanta WH,Nashville WH,2023-09-05 14:19:43,2023-10-11 01:16:59,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Focused zero tolerance intranet
+SP-6572,New Orleans WH,Nashville WH,2023-09-11 17:21:22,2023-10-07 18:14:41,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral multimedia concept
+SP-1299,Detroit WH,Miami WH,2023-09-12 10:31:09,2023-10-24 21:45:14,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-tiered transitional support
+SP-2316,Miami WH,Detroit WH,2023-09-28 05:53:43,2023-10-09 22:56:41,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Versatile demand-driven toolset
+SP-8533,New Orleans WH,Miami WH,2023-09-09 18:57:18,2023-10-01 06:51:28,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Optimized zero administration project
+SP-0548,Chicago WH,Nashville WH,2023-09-08 01:05:21,2023-10-13 10:24:11,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Networked disintermediate time-frame
+SP-2136,Atlanta WH,Detroit WH,2023-09-25 18:23:44,2023-10-30 14:40:01,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Robust explicit website
+SP-2786,Atlanta WH,Durham WH,2023-09-04 21:53:05,2023-10-30 01:36:47,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Focused systematic capacity
+SP-1534,Atlanta WH,Miami WH,2023-09-01 21:50:40,2023-10-26 12:22:26,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Streamlined didactic policy
+SP-8561,Atlanta WH,Nashville WH,2023-09-18 10:30:45,2023-10-29 00:59:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Open-architected neutral infrastructure
+SP-3191,New Orleans WH,Miami WH,2023-09-05 02:54:40,2023-10-08 10:00:00,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Inverse solution-oriented ability
+SP-1167,Durham WH,Detroit WH,2023-09-06 07:31:54,2023-10-14 23:17:55,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Proactive analyzing array
+SP-5228,Nashville WH,Atlanta WH,2023-09-29 02:46:40,2023-10-08 02:30:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Expanded bifurcated hierarchy
+SP-0171,Nashville WH,Miami WH,2023-09-19 02:12:29,2023-10-30 12:57:02,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Realigned global database
+SP-5489,Atlanta WH,Nashville WH,2023-09-17 20:52:42,2023-10-21 06:59:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Business-focused dynamic infrastructure
+SP-2590,Detroit WH,Detroit WH,2023-09-17 18:21:26,2023-10-27 17:25:46,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Secured attitude-oriented internet solution
+SP-1603,Chicago WH,Detroit WH,2023-09-13 19:19:46,2023-10-22 08:47:49,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Centralized methodical policy
+SP-6455,Detroit WH,Detroit WH,2023-09-01 15:26:19,2023-10-11 06:35:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Adaptive scalable forecast
+SP-6990,Durham WH,Miami WH,2023-09-09 09:57:08,2023-10-17 10:38:57,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Managed needs-based service-desk
+SP-4760,Atlanta WH,Atlanta WH,2023-09-15 04:24:19,2023-10-09 01:52:43,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected multi-tasking solution
+SP-5848,Detroit WH,Miami WH,2023-09-27 06:40:42,2023-10-16 16:42:49,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Customer-focused bifurcated benchmark
+SP-5827,Nashville WH,New Orleans WH,2023-09-25 16:03:56,2023-10-29 23:22:06,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Progressive mission-critical throughput
+SP-9227,Nashville WH,New Orleans WH,2023-09-15 05:02:36,2023-10-01 22:01:39,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Secured executive leverage
+SP-3251,Durham WH,Durham WH,2023-09-11 12:58:49,2023-10-20 14:45:18,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Polarised bottom-line time-frame
+SP-6230,Durham WH,Nashville WH,2023-09-12 07:17:40,2023-10-06 21:14:50,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Intuitive 4th generation access
+SP-3295,Nashville WH,Miami WH,2023-09-29 09:03:21,2023-10-03 09:06:57,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Monitored eco-centric forecast
+SP-7370,Nashville WH,Atlanta WH,2023-09-14 19:24:30,2023-10-12 23:09:14,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Enhanced zero defect matrix
+SP-8659,Nashville WH,New Orleans WH,2023-09-05 22:08:44,2023-10-27 11:40:21,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Open-source incremental Graphic Interface
+SP-2544,Miami WH,New Orleans WH,2023-09-03 01:48:27,2023-10-15 04:35:48,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Profit-focused asynchronous structure
+SP-8078,Chicago WH,Nashville WH,2023-09-22 14:08:38,2023-10-24 20:48:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Virtual hybrid monitoring
+SP-4692,New Orleans WH,Miami WH,2023-09-13 11:53:44,2023-10-29 02:14:41,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Centralized zero defect service-desk
+SP-0736,New Orleans WH,Nashville WH,2023-09-10 21:20:18,2023-10-01 20:12:06,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Distributed value-added forecast
+SP-9019,Chicago WH,New Orleans WH,2023-09-21 06:03:20,2023-10-06 21:42:29,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Configurable 24 hour middleware
+SP-0467,New Orleans WH,Detroit WH,2023-09-02 00:30:27,2023-10-17 03:07:17,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Versatile client-driven service-desk
+SP-9464,Chicago WH,New Orleans WH,2023-09-02 22:52:21,2023-10-21 17:16:31,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-layered bottom-line installation
+SP-7352,Atlanta WH,Atlanta WH,2023-09-04 18:25:00,2023-10-08 17:01:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Compatible grid-enabled monitoring
+SP-9340,Atlanta WH,Miami WH,2023-09-28 20:05:10,2023-10-03 02:26:23,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Implemented homogeneous function
+SP-0795,New Orleans WH,Nashville WH,2023-09-21 11:00:06,2023-10-13 03:41:16,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-layered tertiary orchestration
+SP-8356,Chicago WH,Nashville WH,2023-09-10 02:35:52,2023-10-03 12:26:36,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Horizontal 4th generation budgetary management
+SP-2244,Miami WH,Atlanta WH,2023-09-07 18:47:05,2023-10-04 21:09:16,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Cloned client-server instruction set
+SP-1476,New Orleans WH,New Orleans WH,2023-09-23 18:41:48,2023-10-19 12:20:09,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Customizable leading edge software
+SP-6526,Detroit WH,Chicago WH,2023-09-16 23:29:32,2023-10-11 21:40:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected coherent policy
+SP-3369,Miami WH,Chicago WH,2023-09-18 13:54:42,2023-10-02 04:45:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Re-engineered uniform functionalities
+SP-6433,Detroit WH,Atlanta WH,2023-09-19 16:53:59,2023-10-16 15:58:29,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed client-server functionalities
+SP-0026,Durham WH,Durham WH,2023-09-13 14:18:16,2023-10-24 03:07:57,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Progressive 24/7 instruction set
+SP-3547,Chicago WH,Chicago WH,2023-09-17 07:25:08,2023-10-23 00:54:12,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Profound impactful attitude
+SP-3165,Chicago WH,Chicago WH,2023-09-26 12:30:35,2023-10-17 01:55:24,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Focused demand-driven algorithm
+SP-5482,Miami WH,Nashville WH,2023-09-19 21:43:20,2023-10-02 09:41:27,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Universal multimedia database
+SP-9519,Detroit WH,New Orleans WH,2023-09-26 04:14:42,2023-10-13 14:55:54,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-channelled static pricing structure
+SP-7558,New Orleans WH,Miami WH,2023-09-21 15:30:30,2023-10-23 17:35:57,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Multi-tiered dynamic forecast
+SP-1675,New Orleans WH,Miami WH,2023-09-09 01:40:17,2023-10-10 15:34:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Secured encompassing groupware
+SP-2147,New Orleans WH,Atlanta WH,2023-09-03 13:34:12,2023-10-06 02:28:22,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Re-contextualized systemic customer loyalty
+SP-9967,Miami WH,Chicago WH,2023-09-08 10:36:58,2023-10-06 21:47:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Phased system-worthy concept
+SP-0195,Detroit WH,Durham WH,2023-09-27 06:06:55,2023-10-12 13:35:02,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Face to face eco-centric process improvement
+SP-7632,Detroit WH,Chicago WH,2023-09-17 19:26:44,2023-10-14 00:23:49,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Exclusive stable collaboration
+SP-9977,New Orleans WH,Nashville WH,2023-09-26 01:48:33,2023-10-05 01:46:06,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Synchronised web-enabled toolset
+SP-6428,Miami WH,Detroit WH,2023-09-28 03:45:27,2023-10-21 15:09:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Public-key zero administration service-desk
+SP-0713,New Orleans WH,Nashville WH,2023-09-05 01:55:52,2023-10-28 08:26:07,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Monitored asymmetric artificial intelligence
+SP-0166,New Orleans WH,Detroit WH,2023-09-06 12:17:51,2023-10-08 04:06:45,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Horizontal responsive Graphic Interface
+SP-6983,New Orleans WH,Nashville WH,2023-09-19 00:43:48,2023-10-04 23:06:10,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Grass-roots fault-tolerant challenge
+SP-2240,Chicago WH,New Orleans WH,2023-09-04 10:40:27,2023-10-14 18:08:22,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Fundamental incremental benchmark
+SP-4795,Atlanta WH,Durham WH,2023-09-15 20:03:51,2023-10-28 19:42:15,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Vision-oriented well-modulated monitoring
+SP-1342,Detroit WH,Atlanta WH,2023-09-25 22:29:33,2023-10-02 03:03:11,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Business-focused value-added moratorium
+SP-8278,Durham WH,Durham WH,2023-09-23 17:53:30,2023-10-14 00:13:07,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Fundamental encompassing product
+SP-2983,Durham WH,Atlanta WH,2023-09-28 22:54:16,2023-10-07 03:26:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Switchable clear-thinking middleware
+SP-8512,Nashville WH,Nashville WH,2023-09-23 23:37:53,2023-10-07 11:16:15,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Object-based transitional hardware
+SP-8221,Detroit WH,Durham WH,2023-09-24 00:22:25,2023-10-16 20:11:07,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Right-sized bandwidth-monitored application
+SP-8760,Atlanta WH,Durham WH,2023-09-03 02:30:13,2023-10-23 11:13:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Quality-focused optimizing forecast
+SP-4706,New Orleans WH,Chicago WH,2023-09-29 15:20:59,2023-10-28 19:00:50,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented local structure
+SP-7790,Durham WH,Durham WH,2023-09-24 04:12:59,2023-10-07 11:06:25,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Balanced client-server software
+SP-7081,Atlanta WH,Atlanta WH,2023-09-01 22:35:25,2023-10-17 17:14:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Synergized multi-tasking flexibility
+SP-6562,New Orleans WH,Durham WH,2023-09-17 00:22:52,2023-10-05 17:14:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Innovative multi-tasking attitude
+SP-4888,Detroit WH,Nashville WH,2023-09-17 02:56:22,2023-10-17 10:14:37,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Streamlined explicit encoding
+SP-9638,Miami WH,Nashville WH,2023-09-12 21:08:25,2023-10-02 09:43:04,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Assimilated logistical methodology
+SP-6770,Chicago WH,Nashville WH,2023-09-25 03:52:37,2023-10-12 11:48:55,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Public-key methodical portal
+SP-2174,New Orleans WH,Durham WH,2023-09-29 02:49:48,2023-10-11 08:19:43,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Pre-emptive dynamic algorithm
+SP-1469,Miami WH,Durham WH,2023-09-17 23:37:30,2023-10-25 02:25:16,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Stand-alone even-keeled software
+SP-7849,Atlanta WH,Atlanta WH,2023-09-01 20:00:45,2023-10-08 00:30:06,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Exclusive web-enabled time-frame
+SP-1732,Nashville WH,Detroit WH,2023-09-16 04:56:16,2023-10-27 23:45:05,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,User-friendly modular flexibility
+SP-3852,Miami WH,Miami WH,2023-09-11 06:39:29,2023-10-02 15:48:34,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Streamlined dynamic flexibility
+SP-5065,Durham WH,Detroit WH,2023-09-09 10:59:53,2023-10-03 17:45:50,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Integrated contextually-based conglomeration
+SP-2046,Miami WH,Atlanta WH,2023-09-18 10:47:14,2023-10-04 10:52:44,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Re-engineered clear-thinking website
+SP-6638,Miami WH,Detroit WH,2023-09-21 20:55:04,2023-10-30 17:33:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Stand-alone tangible functionalities
+SP-1743,Detroit WH,Chicago WH,2023-09-03 21:15:11,2023-10-19 02:22:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Digitized multi-tasking adapter
+SP-3854,Miami WH,Durham WH,2023-09-07 03:37:57,2023-10-05 13:39:50,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Public-key exuding frame
+SP-1398,Atlanta WH,Chicago WH,2023-09-06 19:15:21,2023-10-26 18:58:48,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Extended bifurcated hardware
+SP-0877,Atlanta WH,Detroit WH,2023-09-29 19:14:21,2023-10-13 12:55:48,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Self-enabling stable paradigm
+SP-5372,Nashville WH,New Orleans WH,2023-09-12 10:59:14,2023-10-11 05:33:12,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,User-friendly coherent standardization
+SP-9107,Atlanta WH,Detroit WH,2023-09-11 03:15:58,2023-10-27 01:37:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable responsive monitoring
+SP-5485,Durham WH,Atlanta WH,2023-09-13 02:49:53,2023-10-02 17:35:34,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Re-contextualized real-time application
+SP-2705,Nashville WH,New Orleans WH,2023-09-29 14:45:40,2023-10-26 04:42:03,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Cloned scalable synergy
+SP-1489,Detroit WH,Detroit WH,2023-09-24 18:33:14,2023-10-11 13:23:27,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Total empowering interface
+SP-2613,New Orleans WH,Durham WH,2023-09-28 07:41:48,2023-10-24 01:40:54,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Automated local info-mediaries
+SP-1624,Miami WH,Atlanta WH,2023-09-01 00:09:18,2023-10-27 01:58:32,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Horizontal explicit strategy
+SP-3267,Nashville WH,Nashville WH,2023-09-05 13:58:34,2023-10-05 03:50:15,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Configurable impactful strategy
+SP-5966,Chicago WH,Detroit WH,2023-09-27 17:57:07,2023-10-29 00:39:17,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Adaptive composite architecture
+SP-2418,Detroit WH,Chicago WH,2023-09-09 01:57:57,2023-10-19 19:04:53,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Function-based coherent structure
+SP-0726,Atlanta WH,Miami WH,2023-09-03 16:02:24,2023-10-25 20:58:16,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-layered 24 hour frame
+SP-2592,Durham WH,New Orleans WH,2023-09-08 10:13:42,2023-10-08 00:54:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Compatible leading edge service-desk
+SP-6200,Miami WH,Atlanta WH,2023-09-15 17:55:51,2023-10-17 20:52:37,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Up-sized optimal support
+SP-2913,New Orleans WH,Detroit WH,2023-09-20 13:29:41,2023-10-01 19:34:28,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Upgradable uniform utilisation
+SP-6885,Atlanta WH,New Orleans WH,2023-09-14 07:00:46,2023-10-24 10:53:46,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Virtual encompassing productivity
+SP-6521,Atlanta WH,Atlanta WH,2023-09-23 15:38:12,2023-10-25 06:08:46,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Inverse even-keeled firmware
+SP-0371,Miami WH,Miami WH,2023-09-11 14:06:37,2023-10-03 06:35:26,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Organic zero administration throughput
+SP-3937,Atlanta WH,Durham WH,2023-09-18 20:04:52,2023-10-16 16:17:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,User-centric dynamic hardware
+SP-6210,Miami WH,Detroit WH,2023-09-25 07:08:11,2023-10-21 05:42:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Multi-channelled full-range initiative
+SP-1070,Nashville WH,Miami WH,2023-09-25 01:49:43,2023-10-04 05:41:17,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Mandatory national success
+SP-4514,Chicago WH,Miami WH,2023-09-09 14:54:56,2023-10-06 21:43:08,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-architected interactive policy
+SP-1963,Miami WH,New Orleans WH,2023-09-20 06:12:21,2023-10-02 16:59:45,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Self-enabling fault-tolerant policy
+SP-0555,Chicago WH,Atlanta WH,2023-09-02 21:06:41,2023-10-19 17:06:35,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive 5th generation methodology
+SP-5456,Chicago WH,Nashville WH,2023-09-17 07:02:10,2023-10-03 09:50:09,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Organic leading edge toolset
+SP-5994,Nashville WH,Chicago WH,2023-09-10 18:56:03,2023-10-15 12:00:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synergistic object-oriented Graphic Interface
+SP-4761,Durham WH,Nashville WH,2023-09-18 08:49:51,2023-10-26 00:36:28,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Distributed 5th generation monitoring
+SP-8556,Miami WH,Atlanta WH,2023-09-17 15:30:08,2023-10-04 08:28:17,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Optimized system-worthy middleware
+SP-6708,New Orleans WH,Atlanta WH,2023-09-20 15:47:59,2023-10-01 15:09:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Adaptive homogeneous process improvement
+SP-0023,Detroit WH,Nashville WH,2023-09-10 17:56:14,2023-10-19 18:42:32,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Robust multi-tasking concept
+SP-4106,Atlanta WH,Durham WH,2023-09-13 06:01:01,2023-10-13 19:29:16,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,De-engineered bifurcated projection
+SP-0694,Chicago WH,Nashville WH,2023-09-14 14:51:10,2023-10-25 19:26:16,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Virtual high-level archive
+SP-1166,New Orleans WH,New Orleans WH,2023-09-14 19:16:54,2023-10-12 11:00:03,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Advanced needs-based migration
+SP-9278,Durham WH,Miami WH,2023-09-26 17:50:20,2023-10-13 09:39:24,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral reciprocal flexibility
+SP-1301,Chicago WH,New Orleans WH,2023-09-03 11:44:31,2023-10-21 17:12:22,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Grass-roots static support
+SP-2052,New Orleans WH,Chicago WH,2023-09-22 03:13:46,2023-10-24 05:21:31,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Organized bifurcated groupware
+SP-3352,Chicago WH,Nashville WH,2023-09-08 10:54:28,2023-10-12 06:24:14,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Enhanced neutral customer loyalty
+SP-4402,Durham WH,Durham WH,2023-09-14 21:35:00,2023-10-14 03:57:31,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Versatile user-facing alliance
+SP-5649,Durham WH,New Orleans WH,2023-09-23 06:56:00,2023-10-13 14:51:12,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent fault-tolerant instruction set
+SP-0972,Miami WH,Nashville WH,2023-09-11 01:22:58,2023-10-11 01:53:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Monitored intermediate project
+SP-2491,Atlanta WH,Atlanta WH,2023-09-02 06:30:11,2023-10-19 06:55:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Versatile full-range firmware
+SP-6088,Atlanta WH,Miami WH,2023-09-01 15:30:09,2023-10-22 06:15:42,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Expanded 24 hour time-frame
+SP-2299,Nashville WH,Miami WH,2023-09-04 09:40:05,2023-10-11 04:08:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-tiered national hardware
+SP-8808,Durham WH,Miami WH,2023-09-29 06:58:00,2023-10-25 11:50:50,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Right-sized leading edge interface
+SP-7704,Durham WH,Miami WH,2023-09-27 15:44:19,2023-10-30 11:39:19,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Innovative motivating firmware
+SP-7622,Atlanta WH,Nashville WH,2023-09-16 09:01:03,2023-10-02 23:47:34,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-lateral multimedia throughput
+SP-4542,Atlanta WH,Atlanta WH,2023-09-19 16:02:34,2023-10-27 07:12:42,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Innovative cohesive access
+SP-0897,Atlanta WH,Miami WH,2023-09-09 14:47:27,2023-10-06 08:43:15,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Customer-focused attitude-oriented help-desk
+SP-4965,Chicago WH,Durham WH,2023-09-06 04:37:56,2023-10-10 14:56:44,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Synergistic cohesive collaboration
+SP-7047,Nashville WH,Chicago WH,2023-09-18 13:21:42,2023-10-21 00:40:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Re-contextualized eco-centric infrastructure
+SP-7151,Chicago WH,Atlanta WH,2023-09-16 06:47:19,2023-10-30 00:08:29,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Configurable multi-tasking alliance
+SP-8923,Miami WH,Miami WH,2023-09-05 10:30:40,2023-10-07 01:06:08,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-source zero administration matrices
+SP-7942,Atlanta WH,Atlanta WH,2023-09-13 00:05:53,2023-10-04 05:43:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Synchronised systematic leverage
+SP-8707,New Orleans WH,Chicago WH,2023-09-29 11:50:06,2023-10-18 19:19:58,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Grass-roots didactic website
+SP-7219,New Orleans WH,Detroit WH,2023-09-24 22:27:38,2023-10-27 10:11:55,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Progressive optimal hierarchy
+SP-4580,Miami WH,Chicago WH,2023-09-07 12:36:33,2023-10-14 17:34:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Extended impactful monitoring
+SP-5796,Durham WH,Nashville WH,2023-09-09 09:29:40,2023-10-27 17:20:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Ergonomic zero defect core
+SP-1947,Miami WH,Atlanta WH,2023-09-04 14:28:21,2023-10-03 08:00:10,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-layered neutral solution
+SP-9663,Nashville WH,Miami WH,2023-09-14 19:25:55,2023-10-30 00:58:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Centralized attitude-oriented process improvement
+SP-4570,Durham WH,Durham WH,2023-09-19 05:42:44,2023-10-25 03:03:50,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Monitored local paradigm
+SP-9974,Detroit WH,New Orleans WH,2023-09-03 18:57:20,2023-10-15 03:50:38,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Up-sized executive hierarchy
+SP-1573,Nashville WH,Durham WH,2023-09-29 22:11:19,2023-10-02 13:12:46,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Compatible bottom-line customer loyalty
+SP-4814,Detroit WH,Chicago WH,2023-09-12 01:33:26,2023-10-30 12:04:46,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Ameliorated client-driven projection
+SP-9350,Atlanta WH,Miami WH,2023-09-18 22:15:28,2023-10-18 22:08:51,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Innovative background neural-net
+SP-1449,Chicago WH,Detroit WH,2023-09-18 09:07:42,2023-10-26 08:46:36,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Customizable intermediate workforce
+SP-7464,Atlanta WH,Durham WH,2023-09-16 20:34:48,2023-10-07 11:16:25,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Polarised radical groupware
+SP-5177,Detroit WH,Chicago WH,2023-09-17 17:18:50,2023-10-01 20:13:40,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Open-architected leading edge time-frame
+SP-1141,Nashville WH,Miami WH,2023-09-29 13:22:25,2023-10-26 03:34:20,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Sharable 6th generation support
+SP-4113,Atlanta WH,New Orleans WH,2023-09-08 20:13:56,2023-10-08 15:11:29,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Versatile solution-oriented concept
+SP-6826,New Orleans WH,Detroit WH,2023-09-27 10:21:33,2023-10-27 13:07:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Ameliorated analyzing ability
+SP-1691,Nashville WH,New Orleans WH,2023-09-28 11:19:59,2023-10-18 22:46:58,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Organized exuding open system
+SP-3464,Atlanta WH,New Orleans WH,2023-09-08 07:17:45,2023-10-23 02:32:19,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Streamlined transitional matrices
+SP-1080,Miami WH,Detroit WH,2023-09-13 21:23:41,2023-10-29 05:46:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Extended real-time paradigm
+SP-1695,Durham WH,Durham WH,2023-09-10 10:49:52,2023-10-25 04:46:25,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Face to face demand-driven matrices
+SP-1140,Detroit WH,Atlanta WH,2023-09-07 05:50:23,2023-10-28 19:24:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Object-based disintermediate installation
+SP-2168,New Orleans WH,Detroit WH,2023-09-16 14:23:05,2023-10-15 01:55:25,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Enhanced clear-thinking firmware
+SP-9192,Durham WH,Atlanta WH,2023-09-06 12:00:31,2023-10-21 01:09:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Business-focused scalable moderator
+SP-9933,New Orleans WH,Atlanta WH,2023-09-26 10:49:29,2023-10-24 11:35:54,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Expanded maximized leverage
+SP-8646,New Orleans WH,Miami WH,2023-09-25 06:43:42,2023-10-26 10:20:50,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,De-engineered high-level framework
+SP-4187,Miami WH,Nashville WH,2023-09-02 19:23:25,2023-10-05 11:44:01,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Up-sized client-server database
+SP-8062,Durham WH,Durham WH,2023-09-25 05:08:01,2023-10-16 23:23:46,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Innovative full-range project
+SP-5930,New Orleans WH,Atlanta WH,2023-09-17 07:02:37,2023-10-09 10:00:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Cross-platform 24 hour flexibility
+SP-2445,Durham WH,Atlanta WH,2023-09-18 03:56:50,2023-10-03 03:36:08,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Expanded client-driven customer loyalty
+SP-0879,Miami WH,Chicago WH,2023-09-07 23:58:57,2023-10-25 03:07:44,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Total asymmetric paradigm
+SP-9876,Detroit WH,Chicago WH,2023-09-29 05:32:18,2023-10-18 23:15:27,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Compatible cohesive attitude
+SP-1212,Detroit WH,Detroit WH,2023-09-06 01:07:06,2023-10-18 09:58:16,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected zero administration productivity
+SP-1436,Detroit WH,Atlanta WH,2023-09-05 07:15:44,2023-10-17 17:22:08,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Decentralized interactive software
+SP-6472,Chicago WH,Atlanta WH,2023-09-27 09:03:37,2023-10-15 13:50:40,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral motivating superstructure
+SP-4570,Atlanta WH,Nashville WH,2023-09-02 11:15:16,2023-10-14 18:46:53,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Streamlined responsive frame
+SP-6018,Nashville WH,Nashville WH,2023-09-13 11:14:36,2023-10-03 20:22:38,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Switchable tertiary solution
+SP-2483,Chicago WH,Durham WH,2023-09-23 06:05:02,2023-10-16 20:08:59,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Team-oriented bi-directional open system
+SP-3160,Durham WH,Nashville WH,2023-09-08 07:44:38,2023-10-04 08:58:14,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Open-source background leverage
+SP-7351,New Orleans WH,Detroit WH,2023-09-19 03:17:14,2023-10-29 07:43:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,De-engineered grid-enabled solution
+SP-8215,Miami WH,Detroit WH,2023-09-28 22:56:44,2023-10-28 15:56:17,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Extended logistical frame
+SP-7946,Atlanta WH,Atlanta WH,2023-09-16 03:09:52,2023-10-09 09:42:24,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Profound next generation portal
+SP-8556,Atlanta WH,Atlanta WH,2023-09-14 17:55:15,2023-10-03 06:33:40,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed attitude-oriented core
+SP-6913,New Orleans WH,Chicago WH,2023-09-06 23:16:41,2023-10-23 20:35:25,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Function-based coherent attitude
+SP-9251,Atlanta WH,Atlanta WH,2023-09-15 15:46:53,2023-10-18 01:56:24,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Managed eco-centric help-desk
+SP-9391,Chicago WH,Durham WH,2023-09-23 09:49:51,2023-10-01 03:49:42,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Function-based 24 hour groupware
+SP-2594,Atlanta WH,Nashville WH,2023-09-26 01:56:54,2023-10-05 17:15:43,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Proactive national framework
+SP-6647,Durham WH,Durham WH,2023-09-05 08:21:08,2023-10-17 03:06:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,User-centric scalable solution
+SP-9590,Atlanta WH,New Orleans WH,2023-09-02 17:40:44,2023-10-28 15:49:08,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Synergized methodical knowledge user
+SP-9487,Nashville WH,Atlanta WH,2023-09-23 02:22:28,2023-10-27 08:54:52,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Cross-group demand-driven algorithm
+SP-4212,Durham WH,Miami WH,2023-09-28 13:10:02,2023-10-07 14:11:10,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Ameliorated zero defect core
+SP-9894,Nashville WH,Chicago WH,2023-09-05 14:57:44,2023-10-30 12:26:12,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Optional 4th generation strategy
+SP-5805,Nashville WH,Detroit WH,2023-09-14 05:23:34,2023-10-24 13:53:03,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-group cohesive functionalities
+SP-7548,Atlanta WH,Nashville WH,2023-09-15 08:34:57,2023-10-19 10:18:59,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Re-contextualized 24 hour access
+SP-7185,Nashville WH,New Orleans WH,2023-09-10 06:52:55,2023-10-07 17:05:00,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Virtual systemic framework
+SP-6941,Durham WH,Atlanta WH,2023-09-27 14:57:40,2023-10-26 06:32:41,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented empowering website
+SP-3386,Nashville WH,New Orleans WH,2023-09-25 03:02:28,2023-10-26 00:09:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Phased tertiary Graphical User Interface
+SP-6361,Detroit WH,Atlanta WH,2023-09-19 20:05:47,2023-10-30 11:35:40,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented static hierarchy
+SP-6462,Atlanta WH,Chicago WH,2023-09-25 18:05:47,2023-10-06 13:54:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Proactive tertiary parallelism
+SP-0842,New Orleans WH,Atlanta WH,2023-09-07 08:52:14,2023-10-01 03:58:34,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Object-based radical architecture
+SP-7700,Durham WH,Chicago WH,2023-09-01 06:08:09,2023-10-02 17:13:39,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Managed homogeneous data-warehouse
+SP-8021,Chicago WH,Nashville WH,2023-09-09 21:04:01,2023-10-24 03:15:27,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Ergonomic zero tolerance encryption
+SP-2325,Chicago WH,Miami WH,2023-09-17 11:27:57,2023-10-14 19:47:33,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Open-source regional contingency
+SP-2877,Detroit WH,Nashville WH,2023-09-13 00:08:12,2023-10-04 16:36:27,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Face to face eco-centric toolset
+SP-6240,Miami WH,New Orleans WH,2023-09-02 23:26:34,2023-10-22 07:25:03,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Digitized bi-directional help-desk
+SP-7454,Atlanta WH,New Orleans WH,2023-09-10 06:17:48,2023-10-26 09:23:45,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Cross-platform impactful open system
+SP-7374,Miami WH,Durham WH,2023-09-09 16:52:32,2023-10-18 04:57:09,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Function-based context-sensitive conglomeration
+SP-3692,Durham WH,New Orleans WH,2023-09-21 22:09:13,2023-10-20 03:22:00,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Monitored asymmetric utilisation
+SP-1594,Miami WH,New Orleans WH,2023-09-16 20:08:05,2023-10-17 21:49:00,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Object-based full-range approach
+SP-9693,Detroit WH,Atlanta WH,2023-09-06 12:32:07,2023-10-17 23:04:00,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Self-enabling system-worthy collaboration
+SP-2057,Miami WH,Detroit WH,2023-09-28 14:35:32,2023-10-28 15:09:40,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Future-proofed global time-frame
+SP-4694,Durham WH,Durham WH,2023-09-10 21:41:18,2023-10-12 10:38:41,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Realigned zero administration implementation
+SP-9608,Durham WH,Nashville WH,2023-09-29 14:32:09,2023-10-08 10:09:13,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Operative non-volatile circuit
+SP-9667,Atlanta WH,Nashville WH,2023-09-07 12:07:46,2023-10-22 00:11:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Synchronised bi-directional structure
+SP-6244,Nashville WH,Nashville WH,2023-09-29 15:37:57,2023-10-15 07:43:25,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Decentralized optimizing installation
+SP-9087,Miami WH,Miami WH,2023-09-18 01:15:10,2023-10-09 09:32:57,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Programmable neutral website
+SP-6501,New Orleans WH,New Orleans WH,2023-09-28 20:59:41,2023-10-18 08:22:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Cross-group well-modulated toolset
+SP-3741,Detroit WH,Durham WH,2023-09-14 06:41:35,2023-10-18 13:43:37,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Right-sized disintermediate moderator
+SP-2682,Durham WH,Nashville WH,2023-09-13 11:43:53,2023-10-09 09:20:11,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Future-proofed optimizing algorithm
+SP-4514,Miami WH,Detroit WH,2023-09-19 22:06:10,2023-10-24 10:12:43,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Organized user-facing conglomeration
+SP-3201,New Orleans WH,New Orleans WH,2023-09-28 22:26:10,2023-10-17 07:50:06,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Implemented stable challenge
+SP-4331,Nashville WH,Atlanta WH,2023-09-17 12:33:39,2023-10-13 17:38:11,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Pre-emptive stable moderator
+SP-3369,Durham WH,Durham WH,2023-09-19 23:06:11,2023-10-09 05:03:26,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Customizable systemic array
+SP-8476,Atlanta WH,Atlanta WH,2023-09-09 12:30:37,2023-10-17 05:16:54,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Adaptive zero defect collaboration
+SP-1137,Chicago WH,New Orleans WH,2023-09-20 19:30:07,2023-10-04 22:46:38,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Profit-focused multi-tasking encryption
+SP-1795,New Orleans WH,New Orleans WH,2023-09-09 05:02:04,2023-10-02 21:15:43,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Ergonomic 24 hour orchestration
+SP-6916,New Orleans WH,Durham WH,2023-09-21 10:16:19,2023-10-07 16:23:13,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Synergized stable website
+SP-5896,New Orleans WH,New Orleans WH,2023-09-05 17:07:25,2023-10-20 00:48:18,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Cloned didactic infrastructure
+SP-5511,Nashville WH,Durham WH,2023-09-23 22:04:38,2023-10-20 13:06:31,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Face to face background initiative
+SP-1092,New Orleans WH,Chicago WH,2023-09-02 04:07:54,2023-10-22 02:04:54,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Profit-focused demand-driven definition
+SP-9730,Atlanta WH,Detroit WH,2023-09-02 01:02:54,2023-10-22 13:49:29,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Decentralized incremental leverage
+SP-0441,Atlanta WH,Durham WH,2023-09-07 20:18:24,2023-10-15 00:18:54,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Balanced multi-state alliance
+SP-1343,Durham WH,Detroit WH,2023-09-16 06:03:31,2023-10-22 06:58:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Decentralized national paradigm
+SP-9523,Atlanta WH,Chicago WH,2023-09-29 17:29:49,2023-10-06 14:23:28,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Diverse neutral alliance
+SP-1766,Miami WH,Miami WH,2023-09-19 23:23:22,2023-10-18 12:55:29,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-layered 6th generation hierarchy
+SP-5538,Atlanta WH,Miami WH,2023-09-10 22:56:51,2023-10-08 05:49:09,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Re-engineered maximized concept
+SP-3429,Miami WH,Chicago WH,2023-09-23 16:07:36,2023-10-17 03:24:13,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Seamless systematic frame
+SP-1544,Miami WH,New Orleans WH,2023-09-09 17:20:11,2023-10-15 09:03:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Programmable encompassing artificial intelligence
+SP-2109,New Orleans WH,Atlanta WH,2023-09-27 07:43:15,2023-10-14 17:34:14,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Focused bottom-line process improvement
+SP-3788,Atlanta WH,Durham WH,2023-09-06 08:16:24,2023-10-16 17:52:52,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Down-sized solution-oriented structure
+SP-0849,New Orleans WH,Miami WH,2023-09-16 03:45:23,2023-10-23 10:54:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Right-sized asymmetric website
+SP-0761,Miami WH,New Orleans WH,2023-09-28 10:53:29,2023-10-15 05:36:55,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Pre-emptive eco-centric matrices
+SP-7598,Detroit WH,Detroit WH,2023-09-06 16:59:39,2023-10-13 09:12:31,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Reactive background website
+SP-6857,Detroit WH,Durham WH,2023-09-02 22:52:35,2023-10-27 01:18:52,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Secured incremental interface
+SP-7696,Miami WH,Durham WH,2023-09-03 17:39:39,2023-10-17 12:06:27,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Profit-focused responsive synergy
+SP-3694,Nashville WH,Durham WH,2023-09-14 13:33:49,2023-10-08 02:47:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Mandatory interactive moratorium
+SP-4528,Miami WH,Nashville WH,2023-09-10 03:46:35,2023-10-25 14:40:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Fundamental reciprocal solution
+SP-5908,Detroit WH,Chicago WH,2023-09-29 16:15:16,2023-10-12 06:56:29,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Sharable intangible conglomeration
+SP-6801,New Orleans WH,Durham WH,2023-09-13 20:33:29,2023-10-24 11:48:00,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Cloned non-volatile alliance
+SP-7446,Chicago WH,Chicago WH,2023-09-10 02:49:01,2023-10-19 16:50:26,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Upgradable discrete algorithm
+SP-5422,Nashville WH,Chicago WH,2023-09-05 04:54:17,2023-10-28 12:50:06,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Universal multimedia hierarchy
+SP-7293,Chicago WH,Miami WH,2023-09-08 00:54:35,2023-10-26 01:15:45,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Reverse-engineered empowering initiative
+SP-4678,New Orleans WH,New Orleans WH,2023-09-11 18:44:16,2023-10-10 18:36:59,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Stand-alone impactful toolset
+SP-3719,Miami WH,Atlanta WH,2023-09-23 19:24:13,2023-10-28 07:31:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Vision-oriented dedicated moratorium
+SP-1282,Nashville WH,Atlanta WH,2023-09-06 18:39:09,2023-10-16 03:41:45,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Enterprise-wide methodical adapter
+SP-5000,Atlanta WH,Durham WH,2023-09-28 22:34:22,2023-10-20 03:49:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable national website
+SP-5273,Nashville WH,Durham WH,2023-09-26 16:13:48,2023-10-03 07:18:11,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Exclusive local strategy
+SP-7616,Detroit WH,New Orleans WH,2023-09-08 07:00:54,2023-10-19 10:11:43,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Object-based cohesive extranet
+SP-9624,Atlanta WH,Durham WH,2023-09-10 22:56:31,2023-10-27 17:22:07,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Universal dedicated knowledge base
+SP-7416,Miami WH,Durham WH,2023-09-24 02:21:47,2023-10-08 09:23:37,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Quality-focused mission-critical middleware
+SP-2908,New Orleans WH,Chicago WH,2023-09-12 05:44:35,2023-10-09 18:30:35,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Organized intangible projection
+SP-8087,Nashville WH,Atlanta WH,2023-09-02 03:48:06,2023-10-06 22:43:12,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Total stable infrastructure
+SP-2983,Durham WH,Detroit WH,2023-09-20 23:38:25,2023-10-24 05:31:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Automated well-modulated neural-net
+SP-9717,Atlanta WH,Miami WH,2023-09-16 11:33:43,2023-10-19 22:49:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Operative stable website
+SP-5515,Miami WH,Miami WH,2023-09-11 13:49:07,2023-10-01 01:02:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Vision-oriented 3rd generation knowledge base
+SP-2563,New Orleans WH,New Orleans WH,2023-09-28 22:36:13,2023-10-15 09:19:09,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-platform homogeneous concept
+SP-5224,Detroit WH,Chicago WH,2023-09-09 23:58:00,2023-10-08 02:10:29,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Public-key non-volatile frame
+SP-9241,Miami WH,New Orleans WH,2023-09-22 03:59:03,2023-10-10 17:01:01,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Visionary secondary circuit
+SP-7059,Nashville WH,New Orleans WH,2023-09-12 12:35:21,2023-10-06 09:09:02,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Synchronised 6th generation migration
+SP-8579,Atlanta WH,Miami WH,2023-09-19 19:12:23,2023-10-27 03:49:08,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Secured neutral secured line
+SP-1630,Durham WH,Miami WH,2023-09-04 04:39:31,2023-10-06 16:11:09,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Horizontal mission-critical matrices
+SP-6038,Miami WH,Atlanta WH,2023-09-02 01:12:26,2023-10-26 09:39:43,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented coherent alliance
+SP-9801,Miami WH,Nashville WH,2023-09-10 12:37:35,2023-10-16 18:49:23,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Implemented analyzing attitude
+SP-4249,Nashville WH,Miami WH,2023-09-27 13:26:42,2023-10-18 06:02:14,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Vision-oriented 6th generation knowledge user
+SP-2828,New Orleans WH,Atlanta WH,2023-09-05 05:41:18,2023-10-28 06:49:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-channelled attitude-oriented project
+SP-7402,Atlanta WH,New Orleans WH,2023-09-16 23:01:28,2023-10-15 10:36:06,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Programmable static parallelism
+SP-6709,Miami WH,Atlanta WH,2023-09-19 05:41:09,2023-10-02 20:00:47,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,User-centric value-added knowledge user
+SP-2844,Miami WH,Miami WH,2023-09-05 18:16:06,2023-10-11 16:07:49,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-lateral explicit moratorium
+SP-3988,Chicago WH,Detroit WH,2023-09-07 02:26:14,2023-10-16 21:14:27,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Automated transitional model
+SP-8886,Nashville WH,Detroit WH,2023-09-28 00:31:54,2023-10-18 02:29:16,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Optional systemic productivity
+SP-8504,Atlanta WH,Miami WH,2023-09-12 15:24:04,2023-10-11 13:24:00,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,User-centric methodical firmware
+SP-3126,Nashville WH,Chicago WH,2023-09-24 23:13:48,2023-10-13 05:45:27,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Optional fault-tolerant infrastructure
+SP-3990,Detroit WH,Detroit WH,2023-09-03 20:19:36,2023-10-07 23:01:51,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Mandatory heuristic budgetary management
+SP-3842,New Orleans WH,Chicago WH,2023-09-29 09:25:10,2023-10-15 10:58:11,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Phased hybrid paradigm
+SP-4939,Detroit WH,Durham WH,2023-09-12 10:54:39,2023-10-08 16:04:11,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Universal bottom-line firmware
+SP-9280,Atlanta WH,Nashville WH,2023-09-29 13:38:36,2023-10-22 03:31:29,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Automated didactic success
+SP-2312,Miami WH,Atlanta WH,2023-09-09 06:19:06,2023-10-04 20:41:44,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Ameliorated global software
+SP-7881,Nashville WH,Miami WH,2023-09-27 09:37:30,2023-10-24 01:27:07,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented transitional instruction set
+SP-6939,Chicago WH,Nashville WH,2023-09-21 21:10:44,2023-10-23 19:53:41,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Virtual full-range definition
+SP-6110,Chicago WH,Chicago WH,2023-09-13 01:29:56,2023-10-11 12:09:07,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-channelled value-added capacity
+SP-5045,Detroit WH,Durham WH,2023-09-26 03:57:29,2023-10-18 22:08:41,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Inverse directional synergy
+SP-0856,Nashville WH,Atlanta WH,2023-09-26 13:10:24,2023-10-08 14:27:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Innovative fault-tolerant conglomeration
+SP-3008,Miami WH,Nashville WH,2023-09-25 08:43:32,2023-10-05 00:23:12,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,De-engineered zero defect open architecture
+SP-8867,Chicago WH,Nashville WH,2023-09-11 22:21:35,2023-10-01 04:59:27,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Sharable transitional structure
+SP-4754,New Orleans WH,Chicago WH,2023-09-23 10:26:00,2023-10-01 09:47:23,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Profound demand-driven forecast
+SP-3112,Durham WH,Detroit WH,2023-09-07 03:20:41,2023-10-10 22:19:22,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Ergonomic local orchestration
+SP-1673,Nashville WH,Nashville WH,2023-09-20 19:42:11,2023-10-12 23:24:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Balanced holistic strategy
+SP-1611,Miami WH,Nashville WH,2023-09-18 19:20:43,2023-10-09 07:58:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Adaptive coherent capability
+SP-1829,Durham WH,Nashville WH,2023-09-02 12:22:44,2023-10-12 19:43:08,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Up-sized bandwidth-monitored database
+SP-6111,Miami WH,Detroit WH,2023-09-04 02:41:28,2023-10-06 13:36:25,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Public-key exuding website
+SP-6829,Miami WH,Durham WH,2023-09-23 22:33:19,2023-10-19 08:37:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Configurable interactive synergy
+SP-1478,Nashville WH,New Orleans WH,2023-09-09 04:40:10,2023-10-13 11:17:07,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Seamless heuristic portal
+SP-1769,Durham WH,Detroit WH,2023-09-02 08:52:24,2023-10-22 05:25:22,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Horizontal modular initiative
+SP-0764,New Orleans WH,New Orleans WH,2023-09-22 10:00:53,2023-10-28 23:14:31,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Cloned interactive standardization
+SP-6384,Durham WH,Durham WH,2023-09-03 23:16:58,2023-10-06 20:16:50,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Secured uniform customer loyalty
+SP-5187,Detroit WH,Miami WH,2023-09-16 07:39:44,2023-10-24 04:20:48,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Team-oriented bandwidth-monitored parallelism
+SP-7223,Chicago WH,New Orleans WH,2023-09-10 08:18:51,2023-10-19 13:07:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Realigned responsive instruction set
+SP-3331,Chicago WH,Miami WH,2023-09-25 01:14:05,2023-10-18 07:52:24,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Up-sized intermediate groupware
+SP-0379,Miami WH,Miami WH,2023-09-15 13:30:27,2023-10-23 14:04:44,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Diverse dynamic installation
+SP-0015,Nashville WH,Atlanta WH,2023-09-26 16:32:30,2023-10-18 07:37:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Open-source zero administration parallelism
+SP-2978,Detroit WH,Chicago WH,2023-09-17 15:01:24,2023-10-03 16:02:11,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Virtual maximized concept
+SP-7661,Detroit WH,Durham WH,2023-09-02 01:45:25,2023-10-26 12:48:23,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Ergonomic web-enabled analyzer
+SP-4034,Durham WH,Chicago WH,2023-09-11 18:55:56,2023-10-30 02:34:12,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Up-sized interactive protocol
+SP-7323,New Orleans WH,Atlanta WH,2023-09-06 17:10:11,2023-10-22 12:23:45,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Multi-tiered secondary functionalities
+SP-9569,Detroit WH,Nashville WH,2023-09-08 21:04:23,2023-10-22 10:43:21,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Self-enabling object-oriented info-mediaries
+SP-9486,Nashville WH,Durham WH,2023-09-12 06:09:47,2023-10-08 21:55:43,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,User-friendly dynamic function
+SP-2726,New Orleans WH,Durham WH,2023-09-22 12:29:49,2023-10-04 20:53:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Ergonomic holistic hub
+SP-1121,Nashville WH,New Orleans WH,2023-09-18 17:42:23,2023-10-30 19:34:44,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Optional uniform paradigm
+SP-2576,Chicago WH,Miami WH,2023-09-27 04:14:45,2023-10-02 14:40:28,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Mandatory bi-directional knowledge base
+SP-9592,New Orleans WH,New Orleans WH,2023-09-02 10:58:23,2023-10-08 10:09:54,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Centralized exuding framework
+SP-9936,Chicago WH,Nashville WH,2023-09-12 19:52:42,2023-10-15 10:01:13,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Implemented bottom-line artificial intelligence
+SP-5690,Detroit WH,Detroit WH,2023-09-23 07:08:29,2023-10-06 11:36:09,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Inverse 24 hour capacity
+SP-2965,Miami WH,Nashville WH,2023-09-06 14:03:22,2023-10-06 13:51:57,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed clear-thinking flexibility
+SP-4402,New Orleans WH,Chicago WH,2023-09-24 09:09:45,2023-10-06 19:13:54,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Multi-lateral interactive throughput
+SP-1195,Chicago WH,New Orleans WH,2023-09-18 14:10:44,2023-10-14 04:29:34,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Assimilated bandwidth-monitored attitude
+SP-2826,Atlanta WH,Chicago WH,2023-09-29 18:39:11,2023-10-11 21:59:27,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Right-sized optimal collaboration
+SP-0944,New Orleans WH,Miami WH,2023-09-06 21:33:52,2023-10-22 06:59:00,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent cohesive frame
+SP-8749,Durham WH,Miami WH,2023-09-07 10:32:40,2023-10-27 18:05:47,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Secured context-sensitive software
+SP-8072,Detroit WH,Detroit WH,2023-09-01 14:01:42,2023-10-11 01:10:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Function-based exuding contingency
+SP-7361,Nashville WH,Durham WH,2023-09-03 10:04:05,2023-10-04 12:33:45,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional bandwidth-monitored structure
+SP-7473,Chicago WH,Nashville WH,2023-09-17 14:33:20,2023-10-09 00:31:21,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Synergistic static capacity
+SP-6529,New Orleans WH,Durham WH,2023-09-16 04:06:44,2023-10-24 13:28:47,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Visionary bifurcated product
+SP-8043,Miami WH,Miami WH,2023-09-16 15:26:40,2023-10-26 17:47:47,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Realigned background conglomeration
+SP-6704,Detroit WH,Nashville WH,2023-09-13 13:48:21,2023-10-03 06:16:24,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Implemented bifurcated migration
+SP-2037,New Orleans WH,Detroit WH,2023-09-02 11:26:40,2023-10-29 00:46:53,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Programmable dedicated archive
+SP-8251,Detroit WH,Miami WH,2023-09-14 10:02:30,2023-10-10 06:06:02,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Open-source holistic website
+SP-6360,Atlanta WH,Atlanta WH,2023-09-06 21:45:49,2023-10-18 20:43:47,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Function-based discrete application
+SP-9168,Durham WH,Nashville WH,2023-09-02 09:55:51,2023-10-26 02:44:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Expanded bottom-line archive
+SP-7685,Durham WH,New Orleans WH,2023-09-05 12:54:17,2023-10-29 20:56:38,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Expanded 6th generation migration
+SP-3923,Atlanta WH,Detroit WH,2023-09-21 18:48:13,2023-10-13 21:56:46,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Vision-oriented optimizing middleware
+SP-9247,Nashville WH,Nashville WH,2023-09-20 07:05:05,2023-10-22 11:21:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Organic zero administration standardization
+SP-1515,Atlanta WH,Miami WH,2023-09-03 05:49:09,2023-10-28 17:05:03,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Extended 24 hour open system
+SP-8427,Nashville WH,Durham WH,2023-09-05 08:20:44,2023-10-02 15:22:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Business-focused 5th generation database
+SP-5743,New Orleans WH,Miami WH,2023-09-07 07:27:42,2023-10-03 02:29:26,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Persistent zero administration synergy
+SP-4787,Atlanta WH,Atlanta WH,2023-09-17 06:41:22,2023-10-21 02:26:42,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Progressive demand-driven collaboration
+SP-7981,Durham WH,Miami WH,2023-09-20 13:08:53,2023-10-14 21:00:38,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Multi-tiered actuating hardware
+SP-6554,New Orleans WH,Nashville WH,2023-09-02 00:31:56,2023-10-30 17:14:13,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Business-focused interactive application
+SP-2702,New Orleans WH,Miami WH,2023-09-02 18:46:23,2023-10-26 12:08:59,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Horizontal discrete throughput
+SP-7359,Durham WH,Detroit WH,2023-09-04 23:01:04,2023-10-04 13:07:11,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Reactive multimedia initiative
+SP-7495,Miami WH,Nashville WH,2023-09-15 00:43:02,2023-10-23 10:03:05,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Stand-alone client-server hardware
+SP-8574,New Orleans WH,Nashville WH,2023-09-23 02:17:23,2023-10-15 14:27:21,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Re-contextualized dedicated productivity
+SP-5851,Chicago WH,Detroit WH,2023-09-14 02:45:25,2023-10-19 14:00:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Integrated cohesive productivity
+SP-9863,Nashville WH,Nashville WH,2023-09-11 04:56:34,2023-10-21 13:43:46,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Grass-roots hybrid product
+SP-8002,Atlanta WH,New Orleans WH,2023-09-25 02:13:47,2023-10-05 07:07:07,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Synchronised needs-based open architecture
+SP-6715,Nashville WH,Miami WH,2023-09-04 15:31:10,2023-10-20 19:25:45,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Diverse motivating leverage
+SP-6335,Durham WH,Atlanta WH,2023-09-27 16:19:44,2023-10-19 14:03:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Business-focused asynchronous project
+SP-7335,Detroit WH,Detroit WH,2023-09-06 23:39:26,2023-10-06 07:51:20,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Focused contextually-based help-desk
+SP-1207,New Orleans WH,Nashville WH,2023-09-22 05:52:08,2023-10-05 23:57:33,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Team-oriented executive parallelism
+SP-1097,Miami WH,Atlanta WH,2023-09-13 16:16:18,2023-10-17 12:48:47,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Managed web-enabled extranet
+SP-1612,New Orleans WH,Nashville WH,2023-09-20 02:21:18,2023-10-13 03:58:56,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Distributed full-range alliance
+SP-3710,Detroit WH,Chicago WH,2023-09-22 01:22:17,2023-10-30 19:13:08,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Operative optimal pricing structure
+SP-1523,Detroit WH,Chicago WH,2023-09-21 16:23:31,2023-10-24 09:35:01,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Inverse static archive
+SP-8229,Durham WH,Atlanta WH,2023-09-12 03:13:24,2023-10-07 05:25:50,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Secured optimal instruction set
+SP-5477,Miami WH,Detroit WH,2023-09-18 02:43:05,2023-10-01 20:27:08,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Assimilated optimal superstructure
+SP-7477,New Orleans WH,Detroit WH,2023-09-03 07:11:33,2023-10-13 12:53:50,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Cloned dynamic archive
+SP-6823,Chicago WH,New Orleans WH,2023-09-09 12:37:54,2023-10-09 00:25:53,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Seamless exuding methodology
+SP-6550,New Orleans WH,Miami WH,2023-09-21 08:38:42,2023-10-01 05:46:02,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Distributed reciprocal support
+SP-3034,Miami WH,Nashville WH,2023-09-09 23:15:41,2023-10-11 14:12:27,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Right-sized asymmetric portal
+SP-8362,New Orleans WH,Durham WH,2023-09-11 15:17:48,2023-10-21 16:12:57,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Cross-group encompassing matrices
+SP-4505,Chicago WH,Nashville WH,2023-09-04 13:17:41,2023-10-14 02:38:52,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Switchable exuding info-mediaries
+SP-9985,Chicago WH,New Orleans WH,2023-09-27 08:50:23,2023-10-05 21:25:10,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Virtual actuating instruction set
+SP-3509,Durham WH,New Orleans WH,2023-09-25 22:52:19,2023-10-23 13:31:35,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Intuitive attitude-oriented encryption
+SP-0411,Nashville WH,Durham WH,2023-09-08 03:06:54,2023-10-21 10:22:32,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Optimized zero administration superstructure
+SP-6346,Durham WH,Detroit WH,2023-09-08 15:04:56,2023-10-12 21:43:20,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional full-range knowledge user
+SP-0162,New Orleans WH,Miami WH,2023-09-05 15:49:51,2023-10-01 02:22:50,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Managed value-added toolset
+SP-3165,Atlanta WH,Detroit WH,2023-09-02 23:06:02,2023-10-13 23:16:37,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,User-centric clear-thinking local area network
+SP-8993,Durham WH,New Orleans WH,2023-09-08 06:42:42,2023-10-27 10:04:58,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Mandatory dynamic project
+SP-5483,Durham WH,Detroit WH,2023-09-03 00:49:55,2023-10-14 17:38:19,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Configurable coherent functionalities
+SP-2598,Miami WH,Durham WH,2023-09-13 10:29:19,2023-10-24 16:35:38,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Public-key actuating software
+SP-0991,New Orleans WH,Detroit WH,2023-09-18 01:32:03,2023-10-23 14:22:23,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Team-oriented multimedia adapter
+SP-5226,Nashville WH,Detroit WH,2023-09-17 00:49:17,2023-10-22 21:47:44,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-channelled real-time flexibility
+SP-1730,Nashville WH,Detroit WH,2023-09-14 09:30:16,2023-10-30 14:34:29,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Phased executive emulation
+SP-2266,Nashville WH,Detroit WH,2023-09-11 11:08:45,2023-10-02 19:58:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Persistent needs-based software
+SP-7283,Detroit WH,Miami WH,2023-09-01 15:25:41,2023-10-28 02:08:51,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Future-proofed well-modulated groupware
+SP-4234,Chicago WH,Miami WH,2023-09-13 02:03:34,2023-10-17 23:13:18,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Open-architected composite utilisation
+SP-3941,Chicago WH,New Orleans WH,2023-09-22 18:36:52,2023-10-29 03:13:41,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Configurable dynamic forecast
+SP-9333,Miami WH,Durham WH,2023-09-19 15:20:04,2023-10-19 16:19:06,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Synchronised interactive time-frame
+SP-3117,Detroit WH,Miami WH,2023-09-02 06:29:48,2023-10-24 18:04:01,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Decentralized clear-thinking methodology
+SP-4462,Chicago WH,Detroit WH,2023-09-01 08:14:33,2023-10-17 00:57:30,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Team-oriented reciprocal neural-net
+SP-1250,Miami WH,New Orleans WH,2023-09-24 02:48:35,2023-10-19 11:40:14,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Synchronised multimedia project
+SP-1308,Chicago WH,Detroit WH,2023-09-03 02:15:15,2023-10-21 05:35:44,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Reverse-engineered disintermediate archive
+SP-0640,Detroit WH,Durham WH,2023-09-20 18:39:32,2023-10-26 04:42:43,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Implemented grid-enabled projection
+SP-1498,Atlanta WH,Detroit WH,2023-09-17 13:12:29,2023-10-21 09:00:46,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Distributed content-based artificial intelligence
+SP-8749,Detroit WH,Atlanta WH,2023-09-21 12:38:15,2023-10-01 02:14:17,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Organic heuristic intranet
+SP-3777,Nashville WH,Atlanta WH,2023-09-20 03:57:23,2023-10-29 05:42:10,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Business-focused eco-centric workforce
+SP-1871,New Orleans WH,Durham WH,2023-09-01 06:13:32,2023-10-19 05:26:47,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Phased background alliance
+SP-6839,Nashville WH,Miami WH,2023-09-22 23:12:19,2023-10-16 05:06:23,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Optimized 5th generation info-mediaries
+SP-0803,Durham WH,Durham WH,2023-09-28 17:13:12,2023-10-13 03:27:24,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Enterprise-wide impactful definition
+SP-6666,Nashville WH,New Orleans WH,2023-09-21 16:43:12,2023-10-13 03:49:22,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Phased demand-driven definition
+SP-7083,Miami WH,New Orleans WH,2023-09-29 14:09:29,2023-10-20 16:58:10,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Vision-oriented uniform leverage
+SP-2824,New Orleans WH,Atlanta WH,2023-09-19 00:16:30,2023-10-26 16:11:11,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Managed 5th generation policy
+SP-1822,New Orleans WH,Nashville WH,2023-09-14 16:55:21,2023-10-13 01:48:23,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Fundamental explicit budgetary management
+SP-3343,Durham WH,Nashville WH,2023-09-19 09:48:25,2023-10-15 07:57:20,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Business-focused foreground implementation
+SP-9038,Nashville WH,Detroit WH,2023-09-22 12:07:29,2023-10-29 21:36:16,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Up-sized disintermediate migration
+SP-3756,Nashville WH,Chicago WH,2023-09-17 18:50:08,2023-10-09 19:12:03,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Operative object-oriented archive
+SP-9222,Durham WH,Detroit WH,2023-09-20 04:03:04,2023-10-08 10:49:53,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Persevering coherent benchmark
+SP-5388,Durham WH,Durham WH,2023-09-07 08:06:39,2023-10-23 19:11:50,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Synchronised intangible benchmark
+SP-8511,Nashville WH,New Orleans WH,2023-09-15 18:21:39,2023-10-14 14:06:39,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Implemented secondary emulation
+SP-0110,New Orleans WH,New Orleans WH,2023-09-07 10:43:56,2023-10-11 12:26:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Business-focused multi-state migration
+SP-6930,Chicago WH,Nashville WH,2023-09-01 15:21:13,2023-10-05 17:16:56,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Multi-layered uniform Graphic Interface
+SP-2758,Durham WH,Atlanta WH,2023-09-17 01:26:51,2023-10-18 19:59:26,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Diverse contextually-based frame
+SP-1951,Atlanta WH,Atlanta WH,2023-09-11 14:05:33,2023-10-12 10:53:33,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Adaptive incremental system engine
+SP-7442,Durham WH,Detroit WH,2023-09-27 04:44:40,2023-10-17 23:56:13,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Switchable upward-trending structure
+SP-8430,Detroit WH,Detroit WH,2023-09-06 21:44:39,2023-10-24 22:27:30,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Adaptive analyzing encoding
+SP-2926,Durham WH,Durham WH,2023-09-28 14:09:49,2023-10-17 23:53:16,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Multi-channelled interactive support
+SP-9474,Chicago WH,New Orleans WH,2023-09-11 12:03:25,2023-10-22 04:03:14,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Exclusive systemic moratorium
+SP-8210,Durham WH,Detroit WH,2023-09-24 13:12:07,2023-10-02 11:51:52,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,De-engineered intermediate support
+SP-5424,Durham WH,Detroit WH,2023-09-11 04:17:08,2023-10-27 16:13:26,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Networked directional website
+SP-0048,Nashville WH,Atlanta WH,2023-09-21 01:23:52,2023-10-19 19:44:38,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Implemented directional help-desk
+SP-6721,Miami WH,Miami WH,2023-09-23 06:32:26,2023-10-12 07:29:21,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Up-sized bottom-line artificial intelligence
+SP-3874,Detroit WH,New Orleans WH,2023-09-21 05:05:20,2023-10-07 03:44:11,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Digitized logistical access
+SP-8421,Atlanta WH,Durham WH,2023-09-26 11:38:36,2023-10-26 06:24:38,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Intuitive object-oriented budgetary management
+SP-9121,Nashville WH,Atlanta WH,2023-09-21 04:02:19,2023-10-27 02:32:36,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Team-oriented bifurcated model
+SP-5350,Miami WH,Detroit WH,2023-09-14 09:57:25,2023-10-09 21:15:13,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Grass-roots dynamic Graphic Interface
+SP-9243,Atlanta WH,Nashville WH,2023-09-18 17:50:58,2023-10-13 09:53:56,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Inverse attitude-oriented core
+SP-5756,Nashville WH,Durham WH,2023-09-11 05:01:43,2023-10-06 07:40:33,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Intuitive dynamic budgetary management
+SP-1242,Chicago WH,Durham WH,2023-09-03 07:05:09,2023-10-24 10:24:06,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Quality-focused hybrid structure
+SP-4149,New Orleans WH,Detroit WH,2023-09-19 18:13:19,2023-10-26 10:38:29,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Optimized disintermediate definition
+SP-7043,Detroit WH,Miami WH,2023-09-25 02:36:41,2023-10-05 08:43:46,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Integrated background alliance
+SP-6969,New Orleans WH,Atlanta WH,2023-09-19 18:30:37,2023-10-15 23:37:37,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Future-proofed multi-state success
+SP-4967,Atlanta WH,Nashville WH,2023-09-19 16:25:20,2023-10-18 05:41:30,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Down-sized asymmetric ability
+SP-9873,Miami WH,Detroit WH,2023-09-18 23:53:34,2023-10-28 14:15:25,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Stand-alone 4th generation methodology
+SP-5871,Chicago WH,New Orleans WH,2023-09-29 18:36:52,2023-10-06 19:40:53,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Centralized background framework
+SP-9786,New Orleans WH,Nashville WH,2023-09-07 07:02:19,2023-10-12 08:30:14,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Phased clear-thinking emulation
+SP-1778,Nashville WH,Miami WH,2023-09-07 00:28:45,2023-10-06 16:05:57,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Adaptive full-range attitude
+SP-7922,New Orleans WH,Atlanta WH,2023-09-23 18:23:10,2023-10-26 12:28:07,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Ameliorated bandwidth-monitored collaboration
+SP-0041,New Orleans WH,Durham WH,2023-09-12 01:58:46,2023-10-01 23:54:52,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Secured fault-tolerant service-desk
+SP-9913,Atlanta WH,Chicago WH,2023-09-18 02:12:10,2023-10-27 05:43:23,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Customer-focused incremental Graphic Interface
+SP-2276,New Orleans WH,Durham WH,2023-09-24 02:37:09,2023-10-30 16:06:31,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Operative dedicated utilisation
+SP-2210,Miami WH,Durham WH,2023-09-08 02:55:18,2023-10-10 23:41:34,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Decentralized real-time concept
+SP-2581,Durham WH,Miami WH,2023-09-12 21:46:14,2023-10-17 22:25:51,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Reverse-engineered stable matrix
+SP-5647,Nashville WH,Detroit WH,2023-09-24 07:48:57,2023-10-23 14:06:20,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Implemented fault-tolerant extranet
+SP-2884,Chicago WH,Durham WH,2023-09-02 19:32:06,2023-10-29 09:46:31,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Distributed client-server middleware
+SP-8678,Nashville WH,Chicago WH,2023-09-15 23:30:37,2023-10-24 19:04:14,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Switchable global capability
+SP-6832,Detroit WH,Miami WH,2023-09-10 17:09:13,2023-10-24 15:15:22,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Multi-tiered foreground structure
+SP-5136,Atlanta WH,Atlanta WH,2023-09-06 10:38:29,2023-10-20 09:18:39,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Fully-configurable national neural-net
+SP-5222,Nashville WH,Atlanta WH,2023-09-14 18:42:08,2023-10-01 09:44:40,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Total web-enabled functionalities
+SP-0913,Nashville WH,Detroit WH,2023-09-03 22:35:49,2023-10-06 09:48:39,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Open-architected transitional adapter
+SP-2876,New Orleans WH,Nashville WH,2023-09-28 14:34:23,2023-10-09 12:28:26,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Centralized bottom-line monitoring
+SP-9231,Detroit WH,Atlanta WH,2023-09-06 08:28:01,2023-10-25 02:27:04,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Reduced bottom-line encryption
+SP-7833,Durham WH,Chicago WH,2023-09-05 11:33:35,2023-10-06 20:49:53,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Ameliorated fresh-thinking workforce
+SP-5059,Detroit WH,Atlanta WH,2023-09-13 01:49:28,2023-10-21 18:55:50,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Customizable system-worthy focus group
+SP-2255,Nashville WH,Atlanta WH,2023-09-17 22:04:31,2023-10-26 08:56:06,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Assimilated high-level data-warehouse
+SP-9581,Durham WH,Atlanta WH,2023-09-03 04:02:45,2023-10-21 17:49:39,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Reactive maximized collaboration
+SP-8238,Detroit WH,New Orleans WH,2023-09-27 19:41:34,2023-10-24 01:48:19,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Multi-tiered explicit framework
+SP-0028,Chicago WH,Durham WH,2023-09-22 10:47:15,2023-10-12 13:31:16,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Optimized next generation algorithm
+SP-8853,Atlanta WH,Miami WH,2023-09-27 13:15:48,2023-10-09 05:38:31,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Enterprise-wide human-resource utilisation
+SP-4230,New Orleans WH,Chicago WH,2023-09-10 07:48:29,2023-10-07 19:44:17,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Cross-group reciprocal capacity
+SP-9111,Nashville WH,Miami WH,2023-09-09 11:11:25,2023-10-12 08:25:17,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Horizontal bandwidth-monitored toolset
+SP-5409,Detroit WH,Durham WH,2023-09-19 01:08:24,2023-10-05 06:16:49,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Profit-focused needs-based project
+SP-1237,Durham WH,Miami WH,2023-09-25 01:44:09,2023-10-06 21:10:26,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Cross-group responsive neural-net
+SP-4185,New Orleans WH,Durham WH,2023-09-22 01:48:26,2023-10-06 17:11:27,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Phased transitional ability
+SP-2410,Nashville WH,New Orleans WH,2023-09-21 13:15:24,2023-10-17 20:31:20,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Proactive analyzing capacity
+SP-9664,Miami WH,Chicago WH,2023-09-04 12:19:08,2023-10-18 02:58:01,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Object-based human-resource interface
+SP-2742,Miami WH,Nashville WH,2023-09-07 03:20:02,2023-10-10 08:02:15,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Innovative radical local area network
+SP-5004,Atlanta WH,Nashville WH,2023-09-29 14:38:06,2023-10-20 07:14:27,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Self-enabling value-added capability
+SP-7634,Nashville WH,Miami WH,2023-09-29 15:50:37,2023-10-04 09:24:17,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Organic responsive challenge
+SP-3076,Nashville WH,Chicago WH,2023-09-07 02:14:48,2023-10-21 04:32:01,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Face to face composite Graphic Interface
+SP-6603,New Orleans WH,Chicago WH,2023-09-11 20:39:32,2023-10-14 08:35:10,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Expanded leading edge internet solution
+SP-7153,Durham WH,Miami WH,2023-09-24 03:20:25,2023-10-16 12:27:05,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,User-friendly bi-directional hardware
+SP-1968,Detroit WH,Miami WH,2023-09-19 02:03:17,2023-10-01 10:01:22,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Quality-focused 4th generation intranet
+SP-4880,Nashville WH,Chicago WH,2023-09-08 22:46:11,2023-10-24 15:54:33,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Customer-focused interactive forecast
+SP-5674,Detroit WH,Miami WH,2023-09-11 14:32:46,2023-10-07 18:52:05,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Total hybrid data-warehouse
+SP-3543,Nashville WH,Durham WH,2023-09-28 19:00:01,2023-10-12 14:29:20,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Public-key 5th generation definition
+SP-5073,New Orleans WH,Chicago WH,2023-09-15 11:40:30,2023-10-14 03:38:47,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Diverse 4th generation portal
+SP-7386,Durham WH,Miami WH,2023-09-17 14:52:32,2023-10-01 15:14:11,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,De-engineered dedicated hierarchy
+SP-0809,Detroit WH,Nashville WH,2023-09-23 15:29:06,2023-10-15 17:58:46,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Synchronised heuristic matrices
+SP-8946,New Orleans WH,Miami WH,2023-09-10 01:23:45,2023-10-27 17:31:28,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Managed non-volatile interface
+SP-2066,New Orleans WH,Miami WH,2023-09-25 17:11:42,2023-10-21 21:56:26,Delayed,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Adaptive static policy
+SP-2970,Atlanta WH,Miami WH,2023-09-19 20:22:12,2023-10-03 22:58:07,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Proactive foreground moderator
+SP-1149,Detroit WH,Miami WH,2023-09-08 01:05:01,2023-10-14 13:36:51,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Intuitive bifurcated initiative
+SP-9524,Atlanta WH,Detroit WH,2023-09-04 01:47:39,2023-10-14 21:17:08,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Upgradable bifurcated process improvement
+SP-8154,Miami WH,Miami WH,2023-09-25 03:58:39,2023-10-08 03:43:59,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Right-sized bottom-line functionalities
+SP-6997,Chicago WH,Miami WH,2023-09-20 19:45:46,2023-10-06 11:25:53,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Fundamental maximized pricing structure
+SP-6304,Chicago WH,Miami WH,2023-09-28 22:04:22,2023-10-24 06:22:23,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Digitized grid-enabled workforce
+SP-6271,Miami WH,Detroit WH,2023-09-21 20:52:57,2023-10-13 13:28:08,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Mandatory 5th generation portal
+SP-0412,Chicago WH,Miami WH,2023-09-09 21:34:02,2023-10-12 09:40:27,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Object-based eco-centric Graphic Interface
+SP-6619,Miami WH,Atlanta WH,2023-09-08 17:40:30,2023-10-27 21:31:54,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Re-engineered clear-thinking approach
+SP-2220,Durham WH,Atlanta WH,2023-09-25 08:54:26,2023-10-11 16:56:31,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Programmable 5th generation initiative
+SP-8952,Atlanta WH,Nashville WH,2023-09-06 23:40:07,2023-10-03 13:47:38,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Front-line context-sensitive architecture
+SP-3503,Durham WH,Nashville WH,2023-09-10 02:18:22,2023-10-26 09:12:14,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Centralized intermediate local area network
+SP-0290,Detroit WH,Nashville WH,2023-09-16 11:09:35,2023-10-08 03:26:07,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Integrated context-sensitive access
+SP-9437,Detroit WH,Miami WH,2023-09-21 22:18:25,2023-10-16 02:35:46,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Re-contextualized high-level encryption
+SP-0624,Miami WH,Nashville WH,2023-09-01 17:30:48,2023-10-27 11:59:16,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Function-based high-level infrastructure
+SP-9081,New Orleans WH,Detroit WH,2023-09-17 05:47:45,2023-10-23 09:32:05,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Profound radical access
+SP-2974,Chicago WH,Miami WH,2023-09-09 02:56:36,2023-10-23 23:10:26,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Synergistic 4th generation open architecture
+SP-6931,Detroit WH,Nashville WH,2023-09-07 11:00:45,2023-10-04 11:56:03,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Standard,Object-based executive capacity
+SP-0656,Atlanta WH,Durham WH,2023-09-19 19:48:59,2023-10-25 11:23:53,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Re-engineered disintermediate infrastructure
+SP-3923,Chicago WH,Nashville WH,2023-09-18 01:19:00,2023-10-28 16:27:15,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Integrated executive hierarchy
+SP-0613,Chicago WH,Atlanta WH,2023-09-28 04:09:07,2023-10-13 20:41:40,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Automated local alliance
+SP-6139,Durham WH,Chicago WH,2023-09-18 09:14:36,2023-10-07 21:07:17,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Programmable analyzing open architecture
+SP-6317,Atlanta WH,New Orleans WH,2023-09-20 19:02:00,2023-10-09 00:50:47,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Expedited,Enterprise-wide demand-driven functionalities
+SP-2640,Durham WH,Chicago WH,2023-09-28 23:14:42,2023-10-24 23:47:22,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Object-based leading edge strategy
+SP-0645,Detroit WH,Miami WH,2023-09-05 10:46:02,2023-10-08 01:13:07,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Operative transitional definition
+SP-3363,Nashville WH,Detroit WH,2023-09-25 15:23:47,2023-10-30 15:31:19,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Implemented client-driven groupware
+SP-0085,Miami WH,Detroit WH,2023-09-29 07:44:19,2023-10-08 20:42:15,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Hazardous,Operative directional strategy
+SP-5581,Chicago WH,Detroit WH,2023-09-10 22:26:17,2023-10-17 12:47:41,Delivered,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Grass-roots fresh-thinking utilisation
+SP-2793,Chicago WH,New Orleans WH,2023-09-02 05:06:45,2023-10-10 07:48:44,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Persistent exuding firmware
+SP-7953,Nashville WH,Atlanta WH,2023-09-27 12:52:27,2023-10-02 01:58:05,In Transit,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Enterprise-wide multi-state archive
+SP-4922,Miami WH,Durham WH,2023-09-11 07:27:42,2023-10-03 04:57:10,In Transit,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,Re-contextualized regional project
+SP-9139,Atlanta WH,Miami WH,2023-09-22 21:22:42,2023-10-15 16:38:03,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Standard,Optional foreground solution
+SP-3278,Nashville WH,Atlanta WH,2023-09-06 04:21:56,2023-10-19 11:32:06,Delayed,001Ho00001ArMMAIA3,001Ho00001ArMMFIA3,Refrigerated,User-friendly well-modulated system engine
+SP-2760,Atlanta WH,Nashville WH,2023-09-03 00:39:42,2023-10-24 04:40:22,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Hazardous,Proactive context-sensitive intranet
+SP-8867,Detroit WH,Nashville WH,2023-09-27 16:56:29,2023-10-10 16:29:21,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Expedited,Adaptive interactive emulation
+SP-0148,Chicago WH,Atlanta WH,2023-09-14 14:24:00,2023-10-24 12:42:09,Delivered,001Ho00001ArMMBIA3,001Ho00001ArMMFIA3,Refrigerated,Virtual executive attitude

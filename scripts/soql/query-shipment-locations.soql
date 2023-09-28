@@ -1,0 +1,4 @@
+SELECT
+        OriginLocation__c,
+        DestinationLocation__c
+FROM TMSShipment__c
