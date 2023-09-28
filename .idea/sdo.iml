@@ -23,7 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.sfdx" />
       <excludeFolder url="file://$MODULE_DIR$/.sf" />
     </content>
-    <orderEntry type="jdk" jdkName="IlluminatedCloud (sdo/sdo)" jdkType="IlluminatedCloud" />
+    <orderEntry type="jdk" jdkName="IlluminatedCloud (tl-sdo/sdo)" jdkType="IlluminatedCloud" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

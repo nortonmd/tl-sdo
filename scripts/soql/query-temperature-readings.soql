@@ -1,0 +1,25 @@
+SELECT
+        CreatedById,
+        CreatedDate,
+        CurrencyIsoCode,
+        DateTimeStemp__c,
+        Humidity__c,
+        Id,
+        IsDeleted,
+        IsLocked,
+        LastActivityDate,
+        LastModifiedById,
+        LastModifiedDate,
+        LastReferencedDate,
+        LastViewedDate,
+        MayEdit,
+        Name,
+        OwnerId,
+        ShipmentID__c,
+        Source__c,
+        SystemModstamp,
+        Temperature__c,
+        TemperatureUnit__c
+FROM TMSTemperatureReading__c
+ORDER BY CreatedDate DESC
+LIMIT 10

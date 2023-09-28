@@ -1,4 +1,4 @@
-SELECT ShiptmentID_c__c, DateTimeStemp_c__c, Humidity_c__c, Temperature_c__c, TemperatureUnit_c__c 
+SELECT ShipmentID_c__c, DateTimeStemp_c__c, Humidity_c__c, Temperature_c__c, TemperatureUnit_c__c 
 FROM TMS_Temperature_Reading__dlm 
 WHERE TemperatureUnit_c__c = 'Celsius' 
 AND Temperature_c__c > 42 
