@@ -1,0 +1,3 @@
+SELECT Id, Name, ShipmentID__c, Temperature__c, TemperatureUnit__c, Source__c
+FROM TMSTemperatureReading__c
+WHERE ShipmentID__c IN ( 'SP-3220' )
